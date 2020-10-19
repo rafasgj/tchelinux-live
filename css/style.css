@@ -106,17 +106,38 @@ header .intro-text .intro-heading {
 }
 
 header img {
-  max-width: 30%;
+  max-width: 15%;
   max-height: 300px;
-  margin-top: 3em;
-  margin-left: 70%;
+  margin-left: 80%;
   display: block;
 }
 
-@media(max-height:420px) {
+@media(max-height:450px) {
   header img {
     max-height: 100px;
     margin-top: 0.5em;
+  }
+
+  header .intro-text {
+      padding-top: 75px;
+      padding-bottom: 25px;
+  }
+
+  header .intro-text .intro-lead-in {
+      margin-bottom: 25px;
+      font-family: sans-serif;
+      font-size: 30px;
+      font-style: italic;
+      line-height: 30px;
+  }
+
+  header .intro-text .intro-heading {
+      margin-bottom: 50px;
+      text-transform: uppercase;
+      font-family: sans-serif;
+      font-size: 45px;
+      font-weight: 700;
+      line-height: 35px;
   }
 }
 
@@ -131,7 +152,7 @@ header img {
         font-family: sans-serif;
         font-size: 40px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 60px;
     }
 
     header .intro-text .intro-heading {
@@ -141,6 +162,11 @@ header img {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+    }
+
+    header img {
+      max-height: 300px;
+      margin-top: 1.5em;
     }
 }
 
