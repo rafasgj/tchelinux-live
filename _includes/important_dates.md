@@ -1,6 +1,8 @@
-* **{{ page.cfp.start }}**: Abertura do CFP
-* **{{ page.cfp.date }}**: Último dia para entrega das propostas
-* **{{ page.cfp.notification }}**: Notificação das palestras selecionadas
-* **{{ page.presentation.submission }}**: Data limite para submissão dos vídeos das palestras
-* **{{ page.presentation.publication }}**: Publicação das palestras aprovadas
-* **{{ page.date }}**: Debate ao vivo sobre as palestras aprovadas
+* **Abertura do CFP**: {{ page.cfp.start }}
+* **Fim da Chamada de Trabalhos**: {{ page.cfp.date }}
+* **Notificação dos Trabalhos Selecionados**: {{ page.cfp.notification }}
+* **Prazo final para envio dos videos**: {{ page.presentation.submission }}
+* **Prazo final para envio das correções**: {{ page.presentation.fixes }}
+* **Anúncio da Programação**: {{ page.presentation.announce }}
+* **Publicação dos Vídeos**: {{ page.presentation.publication }}
+* **Tchelinux Live**: {{ page.date }}

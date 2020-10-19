@@ -11,8 +11,10 @@ cfp:
   url: /
 presentation:
   length: 30
-  submission: 30 de Novembro de 2020
-  publication: 30 de Novembro de 2020
+  submission: 29 de Novembro de 2020
+  fixes: 6 de Dezembro de 2020
+  announce: 7 de Dezembro de 2020
+  publication: 7 de Dezembro de 2020
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
