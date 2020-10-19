@@ -1,7 +1,7 @@
 A Chamada de Trabalhos está aberta e o **prazo de submissão de propostas** para
 palestras se encerra no dia **{{ page.cfp.date }}**.
 
-Por conta de limitações de infraestrutura optamos por realizarmos um evento com
+Por conta de limitações de infraestrutura optamos por realizar um evento com
 apresentações previamente gravadas, que serão publicadas na íntegra na véspera
 da data.
 
