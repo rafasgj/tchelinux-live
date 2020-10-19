@@ -181,6 +181,13 @@ header img {
     }
 }
 
+@media(orientation: portrait) and (min-height: 1024px) {
+    header .intro-text {
+        padding-top: 40vh;
+        padding-bottom: 200px;
+    }
+}
+
 section {
     padding: 100px 0;
 }
