@@ -170,6 +170,17 @@ header img {
     }
 }
 
+@media(min-width: 1200px){
+    header .intro-text .intro-heading {
+        margin-bottom: 25px;
+    }
+
+    header img {
+        max-height: 280px;
+        margin-top: 0;
+    }
+}
+
 section {
     padding: 100px 0;
 }
