@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guia de Submissão de Palestras Tchelinux
-link_slides: /
+link_slides: https://docs.google.com/presentation/d/1Fjw0lVCLfjXpR_baW-Z-WAmiW1fcQ4PQZnaI3Ixwg3c/edit?usp=sharing
 ---
 
 O Grupo de Usuários Tchelinux organiza dois tipos de eventos, o eventos presenciais e o eventos remotos (ou _online_). Nesses eventos, incentiva-se a participação da comunidade de desenvolvedores e usuários de software livre para a realização de apresentações com o objetivo de difundir a aplicação de software livre em diversas áreas.
@@ -78,7 +78,7 @@ Os vídeos submetidos para os eventos do grupo devem seguir as seguintes regras:
 2. O vídeo deve ser de autoria da pessoa que está submetendo a proposta, e este deve garantir a propriedade ou autorizações necessárias de todo material contido no vídeo.
 3. Menores de idade só podem aparecer mediante autorização dos responsáveis legais, mesmo que seja responsável pelo vídeo.
 4. Ao enviar o vídeo, você autoriza o uso de sua imagem para exibição do vídeo, divulgação do evento ao qual o vídeo está associado, ou divulgação do grupo, sem nenhuma compensação financeira ou de serviços.
-5. Os vídeos contendo _slides_ devem utilizar, obrigatoriamente o [modelo de slides do Tchelinux]({{ page.link_slides }}).
+5. Os vídeos contendo _slides_ devem utilizar, obrigatoriamente o [modelo de slides do Tchelinux]({{ page.link_slides }}) (duplique a apresentação modelo).
 6. O vídeo deve ser gravado com tamanho de 1280 x 720 pixels (720p), com 30 ou 60 frames por segundo, e codificado com h.264, com taxa de bits de 5 Mbit/s a 25 Mbit/s.
 7. O áudio do vídeo deve ser codificado como MPEG Layer 3 (MP3) ou AAC, com taxa de bits de 256 kbit/s a 320 kbit/s, e 44100 Mhz.
 8. As fontes dos slides não podem ser menores do que 24 pt.

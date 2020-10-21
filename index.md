@@ -8,13 +8,14 @@ cfp:
   start: 18 de Outubro de 2020
   date: 8 de Novembro de 2020
   notification: 13 de Novembro de 2020
-  url: /
+  url: https://forms.gle/wYZ2sTt5RfkC1YYB8
 presentation:
   length: 30
   submission: 29 de Novembro de 2020
   fixes: 6 de Dezembro de 2020
   announce: 7 de Dezembro de 2020
   publication: 7 de Dezembro de 2020
+  url: /
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
