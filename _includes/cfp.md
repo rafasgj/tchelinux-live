@@ -11,3 +11,5 @@ Caso sua proposta seja aprovada, você deverá produzir e enviar um vídeo de at
 **{{ page.presentation.length }} minutos**, até o dia
 **{{ page.presentation.submission }}**, de acordo com
 [Guia de Submissão de Palestras do Tchelinux](guidelines).
+
+[Acesse aqui o modelo de slides.](https://slides.tchelinux.org)

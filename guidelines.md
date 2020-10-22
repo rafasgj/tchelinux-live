@@ -61,7 +61,7 @@ Sugerimos o uso de arquivos no formato PDF para melhor possibilidade de acesso a
 
 Pode ser necessário que o autor que apresentar seu trabalho assine um termo de cessão de direito de imagem, caso o evento seja filmado ou transmitido.
 
- vídeo deve ser de autoria da pessoa que está submetendo a proposta, e este deve garantir a propriedade ou autorizações necessárias de todo material contido no vídeo.
+O vídeo deve ser de autoria do(s) responsável(eis) pela submissão da proposta, e este(s) deve(m) garantir a propriedade ou autorizações necessárias de todo material contido no vídeo.
 
 Os _slides_ das palestras apresentadas devem ser disponibilizados para a organização, que os adicionará ao [repositório de palestras](https://slides.tchelinux.org).
 
@@ -82,9 +82,11 @@ Os vídeos submetidos para os eventos do grupo devem seguir as seguintes regras:
 6. O vídeo deve ser gravado com tamanho de 1280 x 720 pixels (720p), com 30 ou 60 frames por segundo, e codificado com h.264, com taxa de bits de 5 Mbit/s a 25 Mbit/s.
 7. O áudio do vídeo deve ser codificado como MPEG Layer 3 (MP3) ou AAC, com taxa de bits de 256 kbit/s a 320 kbit/s, e 44100 Mhz.
 8. As fontes dos slides não podem ser menores do que 24 pt.
-9. Caso seja adicionado um vídeo de _overlay_ do palestrante, esse vídeo deve estar posicionado no canto inferior direito, e não pode ultrapassar 320 x 180 pixels.
-10. Não podem existir vinhetas de abertura ou encerramento no vídeo.
-11. Os vídeos não podem conter material de propaganda.
+9. Caso seja adicionado um vídeo de _overlay_ do palestrante, esse vídeo deve estar posicionado no canto inferior direito, e não pode ultrapassar 320 x 180 pixels, seja para uma apresentação utilizando _slides_, ou não.
+10. Pode-se utilizar um vídeo do palestrante, ocupando toda a tela (1280 x 720 pixels) na apresentação e nos agradecimentos do vídeo.
+11. Não podem existir vinhetas de abertura ou encerramento no vídeo.
+12. Os vídeos não podem conter material de propaganda, ou anúncio de produtos.
+13. Ao enviar o vídeo, o(s) autor(es) autorizam a Organização do Tchelinux a modificá-lo, incluindo as vinhetas de abertura e encerramento, e/ou outras informações relevantes, incluindo alterações nos metadados do arquivo.
 
 Nos eventos _online_, além da aprovação na submissão de trabalhos, o vídeo com a apresentação também será avaliado, e pode ser excluído caso:
 
