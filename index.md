@@ -5,8 +5,8 @@ city: Live
 date: 12 de Dezembro de 2020
 time: '14:00'
 cfp:
-  start: 18 de Outubro de 2020
-  date: 8 de Novembro de 2020
+  start: 24 de Outubro de 2020
+  date: 08 de Novembro de 2020
   notification: 13 de Novembro de 2020
   url: https://forms.gle/wYZ2sTt5RfkC1YYB8
 presentation:
@@ -31,6 +31,6 @@ As palestras continuam sendo sobre temas técnicos relacionados Software Livre,
 no entanto todas palestras serão disponibilizadas em vídeo, publicadas na
 semana que antecede o evento, no [canal do grupo](https://youtube.com/tchelinux/).
 
-No dia **{{ page.date }}**, a partir das 14:00h, teremos o **Tchelinux Live**,
+No dia **{{ page.date }}**, a partir das 08:00h, teremos o **Tchelinux Live**,
 com onde os palestrantes responderão perguntas sobre tópicos abordados
-durante o evento.
+durante o evento e também keynotes com convidados especiais.
