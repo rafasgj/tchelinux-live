@@ -12,34 +12,31 @@ temas:
        com pessoas em situação de risco da região onde o evento se realiza.
    - pergunta: Onde eu me inscrevo para participar do evento?
      resposta: |
-       Nos eventos presenciais você deve se inscrever utilizando o formulário de
-       inscrição do evento específico.
+       O Tchelinux Live 2020 não requer inscrição e para participar basta acessar o
+       [Canal do Tchelinux no Youtube](https://youtube.com/tchelinux) no dia do evento.
 
-       Nos eventos _online_, você não precisa se inscrever, bastando acessar um
-       dos links de transmissão.
+       Importante: Recomendamos que interessados em participar se inscrevam no canal
+       e ativem as notificações para que sejam lembrados sobre o evento.
+
 - nome: Certificados
   items:
-   - pergunta: |
-       O evento irá emitir certificados?
-       resposta: |
+   - pergunta: O evento irá emitir certificados?
+     resposta: |
        Sim, durante a realização do Tchelinux Live 2020 (12 de Dezembro) será
        anunciado um link para que participantes possam confirmar sua presença
-       e solicitar seus certificados, e após o término do evento os mesmos serão 
-       disponibilizados no [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
+       e solicitar seus certificados.
 
-   - pergunta: |
-       Eu produzi conteúdo para o evento _online_, posso receber um
+   - pergunta: Eu produzi conteúdo para o evento _online_, posso receber um
        certificado por isso?
      resposta: |
-       Sim, seu certificado de produção de conteúdo estará disponível no
-       [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
-       Selecione o evento "Eventos _Online_", e digite seu email utilizado na
-       submissão do conteúdo.
+       Sim, da mesma forma que os participantes os palestrantes também receberão
+       certificados pela produção de conteúdo.
 
    - pergunta: Como eu retiro meu certificado?
      resposta: |
-       Os certificados são disponibilizados no
+       Uma semana após a realização do evento os certificados são disponibilizados no
        [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
+
    - pergunta: O meu certificado não está aparecendo. O que preciso fazer?
      resposta: |
        Para obter seu certificado você deve utilizar o email utilizado no
@@ -47,5 +44,4 @@ temas:
         Não esqueça de selecionar corretamente o ano e local do evento. Seu
        certificado estará disponível se você realizou o credenciamento no dia
        do evento.
-
 ---
