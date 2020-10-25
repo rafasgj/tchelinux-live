@@ -19,6 +19,23 @@ temas:
        dos links de transmissão.
 - nome: Certificados
   items:
+   - pergunta: |
+       O evento irá emitir certificados?
+       resposta: |
+       Sim, durante a realização do Tchelinux Live 2020 (12 de Dezembro) será
+       anunciado um link para que participantes possam confirmar sua presença
+       e solicitar seus certificados, e após o término do evento os mesmos serão 
+       disponibilizados no [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
+
+   - pergunta: |
+       Eu produzi conteúdo para o evento _online_, posso receber um
+       certificado por isso?
+     resposta: |
+       Sim, seu certificado de produção de conteúdo estará disponível no
+       [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
+       Selecione o evento "Eventos _Online_", e digite seu email utilizado na
+       submissão do conteúdo.
+
    - pergunta: Como eu retiro meu certificado?
      resposta: |
        Os certificados são disponibilizados no
@@ -30,14 +47,5 @@ temas:
         Não esqueça de selecionar corretamente o ano e local do evento. Seu
        certificado estará disponível se você realizou o credenciamento no dia
        do evento.
-   - pergunta: E o meu certificado do evento _online_?
-     resposta: Não serão emitidos certificados para os eventos _online_.
-   - pergunta: |
-       Eu produzi conteúdo para o evento _online_, posso receber um
-       certificado por isso?
-     resposta: |
-       Sim, seu certificado de produção de conteúdo estará disponível no
-       [Sistema de Certificados Tchelinux](https://certificados.tchelinux.org).
-       Selecione o evento "Eventos _Online_", e digite seu email utilizado na
-       submissão do conteúdo.
+
 ---
