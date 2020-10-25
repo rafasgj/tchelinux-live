@@ -8,7 +8,7 @@ cfp:
   start: 24 de Outubro de 2020
   date: 08 de Novembro de 2020
   notification: 13 de Novembro de 2020
-  url: https://forms.gle/wYZ2sTt5RfkC1YYB8
+  url: https://live.tchelinux.org/cfp
 presentation:
   length: 30
   submission: 29 de Novembro de 2020
