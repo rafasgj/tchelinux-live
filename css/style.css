@@ -141,7 +141,29 @@ header img {
   }
 }
 
+iframe#video {
+   width: 125vh;
+   height: 70vh;
+   margin: 2em auto;
+}
+
+@media (orientation: portrait) {
+    iframe#video {
+       width: 90vw;
+       height: 51vw;
+       margin: 2em auto;
+    }
+}
+
 @media (min-width:768px) {
+    @media (min-height: 450px) {
+        iframe#video {
+           width: 70vw;
+           height: 40vw;
+           margin: 2em auto;
+        }
+    }
+
     header .intro-text {
         padding-top: 25vh;
         padding-bottom: 200px;
@@ -171,6 +193,12 @@ header img {
 }
 
 @media(min-width: 1200px){
+    iframe#video {
+       width: 852px;
+       height: 480px;
+       margin: 2em auto;
+    }
+
     header .intro-text .intro-heading {
         margin-bottom: 25px;
     }
