@@ -10,7 +10,7 @@ cfp:
   notification: 13 de Novembro de 2020
   url: https://live.tchelinux.org/cfp
 presentation:
-  length: 30
+  length: 45
   submission: 29 de Novembro de 2020
   fixes: 6 de Dezembro de 2020
   announce: 7 de Dezembro de 2020
