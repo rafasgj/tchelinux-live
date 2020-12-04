@@ -16,6 +16,21 @@ presentation:
   announce: 7 de Dezembro de 2020
   publication: 7 de Dezembro de 2020
   url: /
+sponsor:
+  gold:
+  - name: PipeRun
+    url: https://crmpiperun.com/
+    image: images/logo-piperun.png
+  - name: Jetimob
+    url: https://www.jetimob.com/
+    image: images/logo-jetimob.png
+  - name: OSSystems
+    url: https://www.ossystems.com.br/
+    image: images/logo-os.png
+  silver:
+  - name: Syntesis IT Services
+    url: https://syntesis.it/
+    image: images/logo-sysntesis-it-services.png
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos

@@ -56,6 +56,26 @@
               {{ dates_data | markdownify }}
             </div>
         </div>
+    <section id="sponsors">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Patrocínio</h2>
+                </div>
+            </div>
+            <div class="row container">
+                <div class="sponsors sponsor_gold">
+                    {% for sponsor in page.sponsor.gold %}
+                    <a class="sponsor_gold" href="{{ sponsor.url }}"><img class="sponsor_gold" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
+                    {% endfor %}
+                </div>
+                <div class="sponsors sponsor_silver">
+                    {% for sponsor in page.sponsor.silver %}
+                    <a class="sponsor_silver" href="{{ sponsor.url }}"><img class="sponsor_silver" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
     </section>
 
     <footer>

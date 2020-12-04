@@ -147,3 +147,34 @@ footer {
     right: 0;
     left: 0;
 }
+
+div.sponsors {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div.sponsor_gold {
+    margin-bottom: 5em;
+}
+img.sponsor_gold {
+    max-width: 350px;
+    margin: 20px 30px;
+}
+img.sponsor_silver {
+    max-width: 150px;
+    margin: 20px 50px;
+}
+
+@media(max-width:600px) {
+    img.sponsor_gold {
+        width: 80vw;
+        padding: 0;
+        margin: 20px;
+    }
+    img.sponsor_silver {
+        max-width: 37vw;
+        margin: 0 3vw;
+    }
+}
