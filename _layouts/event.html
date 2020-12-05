@@ -39,18 +39,19 @@
             </div>
             <div class="row container">
                 <div class="accordion" id="accordionExample">
-                  {% assign show = "show" %}
+                    {% assign show = "show" %}
+                    {% assign next = 1 %}
                   {% for room in site.data[page.speeches] %}
                   <div class="card z-depth-0 bordered">
-                    <div class="card-header" id="headingOne">
+                    <div class="card-header" id="heading{{ next }}">
                       <h5 class="mb-0">
-                        <button class="btn btn-link speech_room" type="button" data-toggle="collapse" data-target="#collapseOne"
-                          aria-expanded="true" aria-controls="collapseOne">
+                        <button class="btn btn-link speech_room" type="button" data-toggle="collapse" data-target="#collapse{{ next }}"
+                          aria-expanded="true" aria-controls="collapse{{ next }}">
                           {{ room.name }}
                         </button>
                       </h5>
                     </div>
-                    <div id="collapseOne" class="collapse {{ show }}" aria-labelledby="headingOne"
+                    <div id="collapse{{ next }}" class="collapse {{ show }}" aria-labelledby="heading{{ next }}"
                       data-parent="#accordionExample">
                       <div class="card-body">
                           {% for speech in room.speeches %}
@@ -66,6 +67,7 @@
                     </div>
                   </div>
                   {% assign show = "" %}
+                  {% assign next = next | plus: 1 %}
                   {% endfor %}
                 </div>
              </div>
