@@ -31,6 +31,7 @@ sponsor:
   - name: Syntesis IT Services
     url: https://syntesis.it/
     image: images/logo-sysntesis-it-services.png
+speeches: 2020_live
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
@@ -49,5 +50,3 @@ semana que antecede o evento, no [canal do grupo](https://youtube.com/tchelinux/
 No dia **{{ page.date }}**, a partir das 08:00h, teremos o **Tchelinux Live**,
 com onde os palestrantes responderão perguntas sobre tópicos abordados
 durante o evento e também keynotes com convidados especiais.
-
-<iframe id="video" src="https://www.youtube.com/embed/B1P58SyKnBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

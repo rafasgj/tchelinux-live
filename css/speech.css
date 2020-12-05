@@ -1,0 +1,80 @@
+#accordionExample {
+   width: 100%;
+}
+
+button.speech_room {
+    color: #050505;
+    font-weight: bolder;
+    text-decoration: none;
+}
+button.speech_room:hover {
+    color: #050505;
+    font-weight: 500;
+    text-decoration: none;
+    font-weight: bolder;
+}
+button.speech_room:focus, button.speech_room:active {
+    color: #050505;
+    font-weight: 500;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.speech_title {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    margin-bottom: 3px;
+}
+
+.speech_author {
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-bottom: 5px;
+}
+
+.speech_abstract {
+    width: 80%;
+    margin-left: 3em;
+    margin-right: 10%;
+}
+.speech_abstract:after {
+    border-bottom: rgb(200, 200, 200) 1px solid;
+    content: '';
+    display: block;
+    padding-top: 5px;
+    margin-left: 5%;
+    margin-bottom: 2em;
+    width: 55%;
+}
+
+.speech_target_principiante {
+    background: rgb(50, 150, 50);
+    display: inline;
+    color: #f0f0f0;
+    border-radius: 5px 5px 5px;
+    padding: 4px 6px;
+    font-size: x-small;
+    font-weight: lighter;
+    vertical-align: super;
+}
+
+.speech_target_intermediário {
+    background: rgb(220, 150, 50);
+    display: inline;
+    color: #f0f0f0;
+    border-radius: 8px 5px 5px;
+    padding: 4px 6px;
+    font-size: x-small;
+    font-weight: lighter;
+}
+
+.speech_target_avançado {
+    background: rgb(200, 50, 0);
+    display: inline;
+    color: #f0f0f0;
+    border-radius: 5px 5px 5px;
+    padding: 4px 6px;
+    font-size: x-small;
+    font-weight: lighter;
+}
