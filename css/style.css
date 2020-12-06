@@ -94,6 +94,12 @@ iframe#video {
 
 }
 
+@media (orientation: landscape) {
+  header {
+    margin-bottom: 8em;
+  }
+}
+
 @media(min-width: 1200px){
     iframe#video {
        width: 852px;
@@ -130,7 +136,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 

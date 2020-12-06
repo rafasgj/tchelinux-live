@@ -4,6 +4,10 @@ title: Tchelinux Live
 city: Live
 date: 12 de Dezembro de 2020
 time: '14:00'
+links:
+  youtube:
+    text: youtube.com/tchelinux
+    url: www.youtube.com/tchelinux?sub_confirmation=1
 cfp:
   start: 24 de Outubro de 2020
   date: 08 de Novembro de 2020
@@ -32,6 +36,18 @@ sponsor:
     url: https://syntesis.it/
     image: images/logo-sysntesis-it-services.png
 speeches: 2020_live
+how_to_participate: |
+  Basta acessar o [canal do Tcelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1), inscrever-se no canal e clicar no sininho para ativar as notificações.
+
+  Assim que a estréia das palestras forem agendadas e os horários das lives anunciadas no dia 12 de Dezembro, você receberá uma notificação.
+
+  Ajude a fortalecer a comunidade do Software Livre: compartilhe as talks, convide quem você conhece, participe. Até lá!
+
+certificates: >
+  Serão fornecidos Certificados Digitais para os participantes que confirmaram sua presença no evento. Para obtê-lo, você deverá preencher este formulário até o dia **{{ page.date }}** e os certificados estarão disponíveis em nosso [sistema de certificados](https://certificados.tchelinux.org/) a partir de Janeiro de 2021.
+
+  > **Importante**: O prazo máximo para requisitar o certificado de participação será o dia **{{ page.date }}**.
+
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
