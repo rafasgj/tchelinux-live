@@ -109,7 +109,8 @@
                 </div>
             </div>
             <div class="row container">
-                {{ page.certificates | liquify | markdownify }}
+              {% capture certificate_data %}{% include certificates.md %}{% endcapture %}
+              {{ certificate_data | markdownify }}
             </div>
         </div>
     </section>
