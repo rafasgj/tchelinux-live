@@ -153,20 +153,15 @@
     url: 'https://andersonluciano.me/
 
       https://twitter.com/brandersonl'
-  - abstract: "Como trabalho de conclus\xE3o do curso de Ci\xEAncia da Computa\xE7\
-      \xE3o, o palestrante faz um estudo de caso para tentar automatizar o processo\
-      \ de contagem de c\xE9lulas sangu\xEDneas, no qual um profissional de laborat\xF3\
-      rio analisa amostras em microsc\xF3pio e, ao identificar um tipo de c\xE9lula\
-      \ a contabiliza manualmente anotando para somar depois. Nessa palestra ser\xE1\
-      \ apresentado o desenvolvimento de uma ferramenta que visa otimizar esse processo\
-      \ repetitivo, demorado e suscet\xEDvel a erros utilizando de aprendizado de\
-      \ m\xE1quina."
+  - abstract: "Nesta apresenta\xE7\xE3o s\xE7\xE3 abordados alguns conceitos iniciais sobre\
+      \ processamento de imagens digitais e como a intelig\xEAncia artificial pode ajudar a com\
+      \ tarefas de detec\xE7\xE3o de objetos em imagens, fazendo uma breve introdu\xE7\xE3o a redes\
+      \ neurais convolucionais e ao framework YOLOv4."
     author: Augusto Luiz da Costa Schnorr
     resume: "Programador Big Data na Compasso UOL, formando em Ci\xEAncia da Computa\xE7\
       \xE3o pela Unisc e entusiasta do software livre"
     target: Principiante
-    title: "Classifica\xE7\xE3o Automatizada de C\xE9lulas Sangu\xEDneas com Aprendizado\
-      \ de M\xE1quina"
+    title: "Introdu\xE7\xE3o a detec\xE7\xE3o de objetos com Deep Learning"
     url: https://people.tchelinux.org/alcsaw/
   - abstract: "A apresenta\xE7\xE3o visa apresentar a linguagem Lua e sua aplica\xE7\
       \xE3o em Edge Computing."
