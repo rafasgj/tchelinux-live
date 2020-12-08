@@ -27,19 +27,21 @@
     target: Principiante
     title: "Boas pr\xE1ticas na programa\xE7\xE3o, muito al\xE9m do c\xF3digo"
     url: https://cristianoprogramador.com
-  - abstract: "O resumo \xE9 auto-explicativo com o t\xEDtulo, irei responder as perguntas\
-      \ Lixo Eletr\xF4nico: O que \xE9? Danos? Reaproveitar? Como Descartar? contextualizando\
-      \ com estudos de casos."
-    author: Rauber Rodrigues
-    resume: "Professor de inform\xE1tica no SENAC Santa Cruz do Sul (RS) e doutorando\
-      \ em Tecnologia Ambiental na UNISC sobre a tem\xE1tica de An\xE1lise do Ciclo\
-      \ de Vida Social de Smartphones; \xC9 volunt\xE1rio em projetos educacionais\
-      \ como o BTec.org.br pra recupera\xE7\xE3o de computadores; Fez palestras em\
-      \ eventos como Fisl/Latinoware/Campus Party e mentorias em eventos de emprendedorismo\
-      \ como Startups Weekends e Nasa Space Apps"
+  - abstract: "Nesta talk irei comentar sobre a utiliza\xE7\xE3o de software livre\
+      \ na produ\xE7\xE3o de conte\xFAdos para o Canal Projeto Root, ser\xE1 abordado\
+      \ o software OBS-Studio utilizado para capturar o material, assim como uma configura\xE7\
+      \xE3o b\xE1sica do mesmo e demais softwares utilizados para edi\xE7\xE3o de\
+      \ v\xEDdeo, \xE1udio e imagens utilizadas."
+    author: Diego Costa
+    resume: "Diego Luiz Silva da Costa \xE9 o idealizador e mantenedor do Canal no\
+      \ YouTube Projeto Root, que nasceu, em maio de 2014, a partir de uma ideia sua\
+      \ ainda na gradua\xE7\xE3o em Redes de Computadores, na Faculdade de Tecnologia\
+      \ SENAC Pelotas. O canal tem como prop\xF3sito o ensino gratuito sobre Tecnologia,\
+      \ Software Livre, GNU-Linux, Redes de Computadores e Seguran\xE7a da Informa\xE7\
+      \xE3o."
     target: Principiante
-    title: "Lixo Eletr\xF4nico: O que \xE9? Danos? Reaproveitar? Como Descartar?"
-    url: linkedin.com/in/luizrauber
+    title: Case de sucesso com uso de software livre no Projeto Root
+    url: https://www.linkedin.com/in/diegocosta82/
   - abstract: "A matem\xE1tica \xE9 cada vez menos valorizada entre estudantes, apesar\
       \ de quase tudo que os jovens adoram ter (muita) matem\xE1tica por tr\xE1s!\
       \ Logo, essa palestra visa mostrar como o uso de Python pode tornar a experi\xEA\
@@ -72,140 +74,21 @@
     target: Principiante
     title: "Muito al\xE9m de Bhaskara: Utilizando Python para aprender matem\xE1tica"
     url: "Jer\xF4nimo: https://www.linkedin.com/in/jmmadruga/\nhttps://twitter.com/jmmadruga"
-  - abstract: "Nesta talk irei comentar sobre a utiliza\xE7\xE3o de software livre\
-      \ na produ\xE7\xE3o de conte\xFAdos para o Canal Projeto Root, ser\xE1 abordado\
-      \ o software OBS-Studio utilizado para capturar o material, assim como uma configura\xE7\
-      \xE3o b\xE1sica do mesmo e demais softwares utilizados para edi\xE7\xE3o de\
-      \ v\xEDdeo, \xE1udio e imagens utilizadas."
-    author: Diego Costa
-    resume: "Diego Luiz Silva da Costa \xE9 o idealizador e mantenedor do Canal no\
-      \ YouTube Projeto Root, que nasceu, em maio de 2014, a partir de uma ideia sua\
-      \ ainda na gradua\xE7\xE3o em Redes de Computadores, na Faculdade de Tecnologia\
-      \ SENAC Pelotas. O canal tem como prop\xF3sito o ensino gratuito sobre Tecnologia,\
-      \ Software Livre, GNU-Linux, Redes de Computadores e Seguran\xE7a da Informa\xE7\
-      \xE3o."
+  - abstract: "O resumo \xE9 auto-explicativo com o t\xEDtulo, irei responder as perguntas\
+      \ Lixo Eletr\xF4nico: O que \xE9? Danos? Reaproveitar? Como Descartar? contextualizando\
+      \ com estudos de casos."
+    author: Rauber Rodrigues
+    resume: "Professor de inform\xE1tica no SENAC Santa Cruz do Sul (RS) e doutorando\
+      \ em Tecnologia Ambiental na UNISC sobre a tem\xE1tica de An\xE1lise do Ciclo\
+      \ de Vida Social de Smartphones; \xC9 volunt\xE1rio em projetos educacionais\
+      \ como o BTec.org.br pra recupera\xE7\xE3o de computadores; Fez palestras em\
+      \ eventos como Fisl/Latinoware/Campus Party e mentorias em eventos de emprendedorismo\
+      \ como Startups Weekends e Nasa Space Apps"
     target: Principiante
-    title: Case de sucesso com uso de software livre no Projeto Root
-    url: https://www.linkedin.com/in/diegocosta82/
+    title: "Lixo Eletr\xF4nico: O que \xE9? Danos? Reaproveitar? Como Descartar?"
+    url: linkedin.com/in/luizrauber
 - name: Desenvolvimento, Big Data e IA
   speeches:
-  - abstract: "A apresenta\xE7\xE3o visa apresentar a linguagem Lua e sua aplica\xE7\
-      \xE3o em Edge Computing."
-    author: "Jo\xE3o Avelino Bellomo Filho"
-    resume: "Jo\xE3o Avelino Bellomo Filho \xE9 usu\xE1rio de Fedora Linux. Tecn\xF3\
-      logo em Processamento de Dados pela Universidade Cat\xF3lica de Pelotas, Mestre\
-      \ em Ci\xEAncia da Computa\xE7\xE3o pela Universidade Federal do Rio Grande\
-      \ do Sul. Atualmente \xE9 Desenvolvedor na Azion Technologies."
-    target: "Intermedi\xE1rio"
-    title: Lua on the Edge
-    url: https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/
-  - abstract: "Em 2020 procurei me dedicar a aprender um pouco mais sobre Intelig\xEA\
-      ncia Artificial e Aprendizado de M\xE1quina. N\xE3o me transformei em um expert,\
-      \ \xE9 claro, mas aprendi algumas coisas interessantes nessa caminhada e essa\
-      \ palestra \xE9 um resumo do que eu aprendi e que acredito que seja \xFAtil\
-      \ para quem gostaria de come\xE7ar na \xE1rea mas se perde no oceano de informa\xE7\
-      \xF5es dispon\xEDveis na web. A palestra abordar\xE1 brevemente a teoria e depois\
-      \ ir\xE1 mostrar como podemos come\xE7ar a usar as ferramentas Weka e Scikit-learn."
-    author: "Vin\xEDcius Alves Hax"
-    resume: "Vin\xEDcius \xE9 formado em Engenharia de Computa\xE7\xE3o e trabalha\
-      \ atualmente como Analista de TI na reitoria do IFSul. Utiliza Linux h\xE1 mais\
-      \ de quinze anos e tem experi\xEAncia em desenvolvimento web e como administrador\
-      \ de sistemas, sempre utilizando preferencialmente softwares livres. Em 2020\
-      \ resolveu se dedicar a estudar IA e aprendizado de m\xE1quina."
-    target: Principiante
-    title: "Introdu\xE7\xE3o \xE0 IA e Aprendizado de M\xE1quina com Ferramentas Livres"
-    url: viniciusah.com.br; github.com/viniciusah
-  - abstract: "Uma nova era est\xE1 prestes a come\xE7ar, o HTTP/3, anteriormente\
-      \ conhecido como HTTP-over-QUIC traz ainda mais mudan\xE7as ao protocolo HTTP\
-      \ do que sua vers\xE3o anterior. Nesta palestra pretendo abordar brevemente\
-      \ a hist\xF3ria do protocolo HTTP, passando por suas vers\xF5es e principais\
-      \ diferen\xE7as, explicando melhor as vantagens e mudan\xE7as do HTTP/3, compatibilidade\
-      \ com navegadores, implementa\xE7\xE3o em servidores web e o futuro da nova\
-      \ vers\xE3o deste cl\xE1ssico protocolo."
-    author: Nelson Dutra Junior
-    resume: "Graduando em Engenharia de Computa\xE7\xE3o pela UFPel, entusiasta de\
-      \ Software Livre, foi volunt\xE1rio na Comunidade Mozilla Brasil, atua como\
-      \ desenvolvedor Full Stack e SysAdmin."
-    target: "Intermedi\xE1rio"
-    title: "HTTP/3 est\xE1 chegando"
-    url: https://www.linkedin.com/in/dutrafox/
-  - abstract: "Como trabalho de conclus\xE3o do curso de Ci\xEAncia da Computa\xE7\
-      \xE3o, o palestrante faz um estudo de caso para tentar automatizar o processo\
-      \ de contagem de c\xE9lulas sangu\xEDneas, no qual um profissional de laborat\xF3\
-      rio analisa amostras em microsc\xF3pio e, ao identificar um tipo de c\xE9lula\
-      \ a contabiliza manualmente anotando para somar depois. Nessa palestra ser\xE1\
-      \ apresentado o desenvolvimento de uma ferramenta que visa otimizar esse processo\
-      \ repetitivo, demorado e suscet\xEDvel a erros utilizando de aprendizado de\
-      \ m\xE1quina."
-    author: Augusto Luiz da Costa Schnorr
-    resume: "Programador Big Data na Compasso UOL, formando em Ci\xEAncia da Computa\xE7\
-      \xE3o pela Unisc e entusiasta do software livre"
-    target: Principiante
-    title: "Classifica\xE7\xE3o Automatizada de C\xE9lulas Sangu\xEDneas com Aprendizado\
-      \ de M\xE1quina"
-    url: https://people.tchelinux.org/alcsaw/
-  - abstract: "Big Data e Cloud Computing surgiram em momento diferentes e com objetivos\
-      \ de fornecer solu\xE7\xF5es para problemas diferentes. Ao unir os dois, surgiram\
-      \ in\xFAmeras possibilidades de criar solu\xE7\xF5es ainda mais complexas para\
-      \ problemas mais dif\xEDceis. Para quem quer entender como essas solu\xE7\xF5\
-      es est\xE3o sendo utilizadas atualmente ou para quem quer entrar para essa nova\
-      \ \xE1rea, que pode ser desde IoT, Intelig\xEAncia Artificial, Ve\xEDculos Aut\xF4\
-      nomos e outras v\xE1rias tecnologias emergentes, essa palestra pode te ajudar\
-      \ a dar o primeiro passo para essa caminhada."
-    author: Ricardo Martinelli de Oliveira
-    resume: "With 10+ years of Technical Support and Java Development experience,\
-      \ Ricardo worked for companies like IBM and Ericsson, and currently a Senior\
-      \ Software Engineer for Red Hat, developing solutions for AI/ML workloads with\
-      \ OpenShift. Also, Ricardo worked as Principal Technical Support Engineer in\
-      \ the same company, providing development support for customer in Web Frameworks\
-      \ and Hibernate/JPA and helping customer in troubleshooting production applications\
-      \ as well as OpenShift evangelist for Brazil, presenting in events for JUG-Vale\
-      \ in S\xE3o Jos\xE9 dos Campos, in S\xE3o Paulo events like TDC (The Developers\
-      \ Conference) and JustJava and in DevConf.CZ (an international conference located\
-      \ in Brno, Czech Republic). In hisblog(http://rimolive.github.io/aprendendo-cloud-computing),\
-      \ Ricardo provides a better experience about OpenShift development and concepts\
-      \ about Cloud Computing in general. "
-    target: Principiante
-    title: Big Data Cloud Computing para os apressados
-    url: https://blog.ricardo.martinelli.nom.br/
-  - abstract: "Nesta palestra, trataremos de como aprender uma nova linguagem de programa\xE7\
-      \xE3o de uma maneira eficaz, r\xE1pida e amig\xE1vel."
-    author: Victor Hugo Aguiar Pacce
-    resume: Estudante e bolsista da Universidade de Santa Cruz do Sul
-    target: Principiante
-    title: "Como aprender uma nova linguagem de programa\xE7\xE3o"
-    url: https://www.github.com/drakonis
-  - abstract: "Em meio a tantos servi\xE7os de rotas como Google Maps, Bing Maps e\
-      \ Mapbox, existe um projeto chamado OSRM (Open Source Routing Machine), projeto\
-      \ de c\xF3digo aberto que entrega um excelente resultado na tarefa de criar\
-      \ rotas de tr\xE2nsito! Nessa talk vou demonstrar seu funcionamento assim como\
-      \  instalar e aplicar essa poderosa ferramenta que utiliza dados do OpenStreetMaps\
-      \ para processamento das rotas."
-    author: Anderson Luciano
-    resume: "Desenvolvedor Web desde 2010.\nTrabalho na DSIN Tecnologia da Informa\xE7\
-      \xE3o como Analista de Novos Projetos.\nSou adminstrador junto com mais 30 membros\
-      \ do grupo @phpbrasil no Telegram, grupo com quase 5k de membros.\nJ\xE1 atuei\
-      \ como mapeador do OpenStreetMap em mapas da minha regi\xE3o.\nTive a oportunidade\
-      \ de palestrar no TDC S\xE3o Paulo no ano de 2018 na trilha de PHP e no mesmo\
-      \ ano palestrei no PHP Conference de Porto Alegre, de l\xE1 pra c\xE1 tenho\
-      \ trabalhado com meetups in company aqui na minha regi\xE3o.\nImplantei em 2016\
-      \ um sistema de Geocode e Rotas em uma empresa de Mar\xEDlia, utilizando ferramentas\
-      \ OpenSource como o OSRM, e dados do OSM e openaddresses.io."
-    target: "Intermedi\xE1rio"
-    title: Implantando uma API de rotas utilizando OSRM
-    url: 'https://andersonluciano.me/
-
-      https://twitter.com/brandersonl'
-  - abstract: "Uma introdu\xE7\xE3o b\xE1sica e pr\xE1tica a concorr\xEAncia na linguagem\
-      \ de programa\xE7\xE3o Go: goroutines e canais. "
-    author: Ricardo Maraschini
-    resume: Membro do TcheLinux desde 2006 atualmente trabalha como pedreiro digital,
-      as vezes levantando paredes e em outras demolindo as que acabou de levantar.
-      Nas horas vagas grava videos no YouTube de qualidade duvidosa, tem dois cachorros,
-      quatro peixes e adora tomar cerveja.
-    target: Principiante
-    title: "Introdu\xE7\xE3o a concorr\xEAncia em Go"
-    url: https://github.com/ricardomaraschini
   - abstract: "Esta palestra visa apresentar uma proposta simplificada para o aux\xED\
       lio na triagem e diagn\xF3stico da doen\xE7a causada pelo novo Coronav\xEDrus\
       \ (COVID-19, do ingl\xEAs Corona Virus Disease 2019). No \xE2mbito do software\
@@ -249,6 +132,135 @@
     target: "Intermedi\xE1rio"
     title: Implementando uma Ledger Open Source em Go
     url: https://www.linkedin.com/in/alexgarzao/
+  - abstract: "Em meio a tantos servi\xE7os de rotas como Google Maps, Bing Maps e\
+      \ Mapbox, existe um projeto chamado OSRM (Open Source Routing Machine), projeto\
+      \ de c\xF3digo aberto que entrega um excelente resultado na tarefa de criar\
+      \ rotas de tr\xE2nsito! Nessa talk vou demonstrar seu funcionamento assim como\
+      \  instalar e aplicar essa poderosa ferramenta que utiliza dados do OpenStreetMaps\
+      \ para processamento das rotas."
+    author: Anderson Luciano
+    resume: "Desenvolvedor Web desde 2010.\nTrabalho na DSIN Tecnologia da Informa\xE7\
+      \xE3o como Analista de Novos Projetos.\nSou adminstrador junto com mais 30 membros\
+      \ do grupo @phpbrasil no Telegram, grupo com quase 5k de membros.\nJ\xE1 atuei\
+      \ como mapeador do OpenStreetMap em mapas da minha regi\xE3o.\nTive a oportunidade\
+      \ de palestrar no TDC S\xE3o Paulo no ano de 2018 na trilha de PHP e no mesmo\
+      \ ano palestrei no PHP Conference de Porto Alegre, de l\xE1 pra c\xE1 tenho\
+      \ trabalhado com meetups in company aqui na minha regi\xE3o.\nImplantei em 2016\
+      \ um sistema de Geocode e Rotas em uma empresa de Mar\xEDlia, utilizando ferramentas\
+      \ OpenSource como o OSRM, e dados do OSM e openaddresses.io."
+    target: "Intermedi\xE1rio"
+    title: Implantando uma API de rotas utilizando OSRM
+    url: 'https://andersonluciano.me/
+
+      https://twitter.com/brandersonl'
+  - abstract: "Como trabalho de conclus\xE3o do curso de Ci\xEAncia da Computa\xE7\
+      \xE3o, o palestrante faz um estudo de caso para tentar automatizar o processo\
+      \ de contagem de c\xE9lulas sangu\xEDneas, no qual um profissional de laborat\xF3\
+      rio analisa amostras em microsc\xF3pio e, ao identificar um tipo de c\xE9lula\
+      \ a contabiliza manualmente anotando para somar depois. Nessa palestra ser\xE1\
+      \ apresentado o desenvolvimento de uma ferramenta que visa otimizar esse processo\
+      \ repetitivo, demorado e suscet\xEDvel a erros utilizando de aprendizado de\
+      \ m\xE1quina."
+    author: Augusto Luiz da Costa Schnorr
+    resume: "Programador Big Data na Compasso UOL, formando em Ci\xEAncia da Computa\xE7\
+      \xE3o pela Unisc e entusiasta do software livre"
+    target: Principiante
+    title: "Classifica\xE7\xE3o Automatizada de C\xE9lulas Sangu\xEDneas com Aprendizado\
+      \ de M\xE1quina"
+    url: https://people.tchelinux.org/alcsaw/
+  - abstract: "A apresenta\xE7\xE3o visa apresentar a linguagem Lua e sua aplica\xE7\
+      \xE3o em Edge Computing."
+    author: "Jo\xE3o Avelino Bellomo Filho"
+    resume: "Jo\xE3o Avelino Bellomo Filho \xE9 usu\xE1rio de Fedora Linux. Tecn\xF3\
+      logo em Processamento de Dados pela Universidade Cat\xF3lica de Pelotas, Mestre\
+      \ em Ci\xEAncia da Computa\xE7\xE3o pela Universidade Federal do Rio Grande\
+      \ do Sul. Atualmente \xE9 Desenvolvedor na Azion Technologies."
+    target: "Intermedi\xE1rio"
+    title: Lua on the Edge
+    url: https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/
+  - abstract: "Criamos um cliente para o banco de dados bitemporal Crux em Rust, como\
+      \ este banco de dados utiliza EDN, um formato de nota\xE7\xE3o de objetos do\
+      \ Clojure, e para lidar com isso foi necess\xE1rio criar um ecossistema de EDN\
+      \ em Rust."
+    author: Julia Naomi Boeira
+    resume: "Engenheira senior no Nubank, j\xE1 tendo trabalho com Rust na Thoughtworks."
+    target: "Intermedi\xE1rio"
+    title: 'Transistor, um cliente para um banco de dados bitemporal '
+    url: https://github.com/naomijub
+  - abstract: "O ecossistema Python oferece (a) ferramentas e bibliotecas para Ci\xEA\
+      ncia de Dados: jupyter, numpy, pandas, matplotlib, scikit. Entretanto, para\
+      \ trabalhar como cientista de dados s\xE3o necess\xE1rias mais duas condi\xE7\
+      \xF5es: (b) fundamentos de Estat\xEDstica e (c) conhecimento sobre a natureza\
+      \ dos dados. Desenvolver essas tr\xEAs condi\xE7\xF5es demanda exerc\xEDcio\
+      \ regular, quando s\xE3o encontradas ou formuladas receitas para completar a\
+      \ an\xE1lise de dados. A reprodu\xE7\xE3o de estudos existentes pode auxiliar\
+      \ a obter maior pr\xE1tica no in\xEDcio dessa carreira. Abordaremos um exemplo\
+      \ de an\xE1lise de dados abertos sobre servi\xE7os urbanos, regularmente divulgados\
+      \ por prefeituras e outros \xF3rg\xE3os governamentais. S\xE3o apresentados\
+      \ os passos necess\xE1rios para: (i) utilizar um ambiente na nuvem para hospedar\
+      \ dados e um caderno ativo, (ii) organizar uma estrutura de dados, (iii) obter\
+      \ frequ\xEAncias, histogramas e medidas estat\xEDsticas, (iv) elaborar e responder\
+      \ perguntas pertinentes aos dados com uso de gr\xE1ficos e an\xE1lise visual\
+      \ e (v) propor novas coletas e an\xE1lises para aumentar o conhecimento sobre\
+      \ os dados. "
+    author: "Marco Aur\xE9lio Souza Mangan"
+    resume: "Graduado (1995) e Mestre (1998) em Ci\xEAncia da Computa\xE7\xE3o pelo\
+      \ Instituto de Inform\xE1tica/UFRGS e doutorado em Engenharia de Sistemas e\
+      \ Computa\xE7\xE3o pelo PESC/UFRJ (2006). Atualmente \xE9 professor da Escola\
+      \ Polit\xE9cnica/PUCRS. Os principais interesses s\xE3o ensino, teoria e pr\xE1\
+      tica de desenvolvimento de software."
+    target: Principiante
+    title: "Python para Ci\xEAncia de Dados na Nuvem: um primeiro exemplo com dados\
+      \ abertos"
+    url: https://github.com/masmangan
+  - abstract: "Uma nova era est\xE1 prestes a come\xE7ar, o HTTP/3, anteriormente\
+      \ conhecido como HTTP-over-QUIC traz ainda mais mudan\xE7as ao protocolo HTTP\
+      \ do que sua vers\xE3o anterior. Nesta palestra pretendo abordar brevemente\
+      \ a hist\xF3ria do protocolo HTTP, passando por suas vers\xF5es e principais\
+      \ diferen\xE7as, explicando melhor as vantagens e mudan\xE7as do HTTP/3, compatibilidade\
+      \ com navegadores, implementa\xE7\xE3o em servidores web e o futuro da nova\
+      \ vers\xE3o deste cl\xE1ssico protocolo."
+    author: Nelson Dutra Junior
+    resume: "Graduando em Engenharia de Computa\xE7\xE3o pela UFPel, entusiasta de\
+      \ Software Livre, foi volunt\xE1rio na Comunidade Mozilla Brasil, atua como\
+      \ desenvolvedor Full Stack e SysAdmin."
+    target: "Intermedi\xE1rio"
+    title: "HTTP/3 est\xE1 chegando"
+    url: https://www.linkedin.com/in/dutrafox/
+  - abstract: "Uma introdu\xE7\xE3o b\xE1sica e pr\xE1tica a concorr\xEAncia na linguagem\
+      \ de programa\xE7\xE3o Go: goroutines e canais. "
+    author: Ricardo Maraschini
+    resume: Membro do TcheLinux desde 2006 atualmente trabalha como pedreiro digital,
+      as vezes levantando paredes e em outras demolindo as que acabou de levantar.
+      Nas horas vagas grava videos no YouTube de qualidade duvidosa, tem dois cachorros,
+      quatro peixes e adora tomar cerveja.
+    target: Principiante
+    title: "Introdu\xE7\xE3o a concorr\xEAncia em Go"
+    url: https://github.com/ricardomaraschini
+  - abstract: "Big Data e Cloud Computing surgiram em momento diferentes e com objetivos\
+      \ de fornecer solu\xE7\xF5es para problemas diferentes. Ao unir os dois, surgiram\
+      \ in\xFAmeras possibilidades de criar solu\xE7\xF5es ainda mais complexas para\
+      \ problemas mais dif\xEDceis. Para quem quer entender como essas solu\xE7\xF5\
+      es est\xE3o sendo utilizadas atualmente ou para quem quer entrar para essa nova\
+      \ \xE1rea, que pode ser desde IoT, Intelig\xEAncia Artificial, Ve\xEDculos Aut\xF4\
+      nomos e outras v\xE1rias tecnologias emergentes, essa palestra pode te ajudar\
+      \ a dar o primeiro passo para essa caminhada."
+    author: Ricardo Martinelli de Oliveira
+    resume: "With 10+ years of Technical Support and Java Development experience,\
+      \ Ricardo worked for companies like IBM and Ericsson, and currently a Senior\
+      \ Software Engineer for Red Hat, developing solutions for AI/ML workloads with\
+      \ OpenShift. Also, Ricardo worked as Principal Technical Support Engineer in\
+      \ the same company, providing development support for customer in Web Frameworks\
+      \ and Hibernate/JPA and helping customer in troubleshooting production applications\
+      \ as well as OpenShift evangelist for Brazil, presenting in events for JUG-Vale\
+      \ in S\xE3o Jos\xE9 dos Campos, in S\xE3o Paulo events like TDC (The Developers\
+      \ Conference) and JustJava and in DevConf.CZ (an international conference located\
+      \ in Brno, Czech Republic). In hisblog(http://rimolive.github.io/aprendendo-cloud-computing),\
+      \ Ricardo provides a better experience about OpenShift development and concepts\
+      \ about Cloud Computing in general. "
+    target: Principiante
+    title: Big Data Cloud Computing para os apressados
+    url: https://blog.ricardo.martinelli.nom.br/
   - abstract: "A popula\xE7\xE3o mundial cresce de maneira acelerada a cada ano. Por\
       \ esse motivo, \xE9 importante que a produ\xE7\xE3o de alimentos cres\xE7a da\
       \ mesma forma para que a seguran\xE7a alimentar n\xE3o seja afetada. A finitude\
@@ -274,8 +286,68 @@
     target: Principiante
     title: "Open Source: Contribuindo para produ\xE7\xE3o de alimentos no mundo"
     url: https://github.com/robainaricardo
+  - abstract: "Nesta palestra, trataremos de como aprender uma nova linguagem de programa\xE7\
+      \xE3o de uma maneira eficaz, r\xE1pida e amig\xE1vel."
+    author: Victor Hugo Aguiar Pacce
+    resume: Estudante e bolsista da Universidade de Santa Cruz do Sul
+    target: Principiante
+    title: "Como aprender uma nova linguagem de programa\xE7\xE3o"
+    url: https://www.github.com/drakonis
+  - abstract: "Em 2020 procurei me dedicar a aprender um pouco mais sobre Intelig\xEA\
+      ncia Artificial e Aprendizado de M\xE1quina. N\xE3o me transformei em um expert,\
+      \ \xE9 claro, mas aprendi algumas coisas interessantes nessa caminhada e essa\
+      \ palestra \xE9 um resumo do que eu aprendi e que acredito que seja \xFAtil\
+      \ para quem gostaria de come\xE7ar na \xE1rea mas se perde no oceano de informa\xE7\
+      \xF5es dispon\xEDveis na web. A palestra abordar\xE1 brevemente a teoria e depois\
+      \ ir\xE1 mostrar como podemos come\xE7ar a usar as ferramentas Weka e Scikit-learn."
+    author: "Vin\xEDcius Alves Hax"
+    resume: "Vin\xEDcius \xE9 formado em Engenharia de Computa\xE7\xE3o e trabalha\
+      \ atualmente como Analista de TI na reitoria do IFSul. Utiliza Linux h\xE1 mais\
+      \ de quinze anos e tem experi\xEAncia em desenvolvimento web e como administrador\
+      \ de sistemas, sempre utilizando preferencialmente softwares livres. Em 2020\
+      \ resolveu se dedicar a estudar IA e aprendizado de m\xE1quina."
+    target: Principiante
+    title: "Introdu\xE7\xE3o \xE0 IA e Aprendizado de M\xE1quina com Ferramentas Livres"
+    url: viniciusah.com.br; github.com/viniciusah
+  - abstract: "A visualiza\xE7\xE3o de dados \xE9 muito importante tanto no meio empresarial\
+      \ quanto no meio de dados abertos, onde o objetivo final \xE9 organizar os dados\
+      \ para que sejam informa\xE7\xF5es escondidas sejam expostas. Nessa apresenta\xE7\
+      \xE3o vamos falar sobre o Dashbuilder, a ferramenta de visualiza\xE7\xE3o e\
+      \ monitoramento do jBPM, uma ferramenta de automa\xE7\xE3o de processos. Mostraremos\
+      \ como criar relat\xF3rios simples e visualiza\xE7\xF5es em tempo reais e ainda\
+      \ como criar seu pr\xF3prio componente de visualiza\xE7\xE3o com pouco Javascript\
+      \ e HTML! A ferramenta Dashbuilder \xE9 livre e f\xE1cil de usar, por isso voc\xEA\
+      \ n\xE3o pode perder essa palestra!"
+    author: William Antonio Siqueira
+    resume: "Formado na FATEC de S\xE3o Jos\xE9 dos Campos, fez curso de extens\xE3\
+      o em Tecnologia na UFABC e tem 10 anos de experi\xEAncia na \xE1rea de TI. Trabalhou\
+      \ com ABAP, Business Objects, Linguagem C e foi Engenheiro de Manuten\xE7\xE3\
+      o atuando com ferramentas JBoss, principalmente com APIs REST, jBPM (BPM Suite)\
+      \ e Drools (BRMS) e atualmente \xE9 Especialista de Software no time Business\
+      \ Automation Engineering na Red Hat. \xC9 membro do grupo SJC Digital onde trabalha\
+      \ com aplica\xE7\xF5es para explorar dados abertos, incluindo o projeto Repasse.\
+      \ Apaixonado por open source e Java, come\xE7ou a trabalhar com JavaFX desde\
+      \ a vers\xE3o 1.0, fundou o primeiro grupo brasileiro e mant\xE9m diversos blogs\
+      \ em portugu\xEAs sobre Java. Apresentou em diversos eventos como Java One,\
+      \ TDC, FISL e \xE9 um dos organizadores do grupo de usu\xE1rios do Vale do Para\xED\
+      ba, o JUG Vale."
+    target: Principiante
+    title: "Visualiza\xE7\xE3o de dados com Dashbuilder"
+    url: https://github.com/jesuino
 - name: "Distribui\xE7\xF5es, Aplicativos e IoT"
   speeches:
+  - abstract: 'Entenda um pouco sobre o systemd e suas facilidades. Ele atende as
+      expectativas? Assista e descubra como ele pode lhe ajudar. '
+    author: 'Aldrey Anderson Galindo de Souza '
+    resume: "Aldrey Galindo \xE9 sysadmin h\xE1 mais de 18 anos, trabalhando com servidores\
+      \ Linux (Red Hat, CentOS, Fedora e Debian), de Aplica\xE7\xE3o (Tomcat, WebSphere,\
+      \ Jboss e WebLogic), de Bancos de Dados (MySQL e PostgreSQL), Virtualiza\xE7\
+      \xE3o (KVM, oVirt, RHEV, VMWare). Ap\xF3s alguns anos de estudo obteve sua certifica\xE7\
+      \xE3o RHCA (Red Hat Certified Architect). H\xE1 um ano e meio realizou seu grande\
+      \ sonho de trabalhar na RedHat."
+    target: Principiante
+    title: systemd para principiantes
+    url: https://br.linkedin.com/in/aldreygalindo/pt-br
   - abstract: "Voc\xEA j\xE1 contribuiu com um projeto de Software Livre? Talvez o\
       \ BigLinux seja um bom local para come\xE7ar, temos ferramentas para ajudar\
       \ voc\xEA a criar interfaces e automa\xE7\xF5es. al\xE9m de um grupo que pode\
@@ -289,6 +361,20 @@
     target: "Intermedi\xE1rio"
     title: BigLinux, ajude a melhorar o Desktop Linux.
     url: www.biglinux.com.br
+  - abstract: "Apresentar fatores relacionados \xE0 utiliza\xE7\xE3o de Linux e outros\
+      \ softwares open source no cotidiano do usu\xE1rio comum, sem conhecimento t\xE9\
+      cnico de inform\xE1tica, complementando com alguns casos demonstrando a maturidade\
+      \ dos sistemas baseados em Linux para uso pessoal frente \xE0s op\xE7\xF5es\
+      \ propriet\xE1rias."
+    author: Cassiano Molinari Gomes
+    resume: "T\xE9cnico qu\xEDmico, t\xE9cnico em inform\xE1tica e estudante de Licenciatura\
+      \ em Computa\xE7\xE3o. Entusiasta de Software Livre e Linux. Contribuo como\
+      \ tradutor da distribui\xE7\xE3o Deepin para portugu\xEAs brasileiro e como\
+      \ volunt\xE1rio no melhor evento de Linux do Brasil, o Tchelinux. Compartilhar\
+      \ o conhecimento \xE9 a chave para melhorar as coisas para todos."
+    target: Principiante
+    title: "Desktop Linux: O pinguim e o usu\xE1rio final"
+    url: twitter.com/molinari_1st, linkedin.com/in/cassiano-molinari, github.com/m00nlinari
   - abstract: "Com o crescente aumento no volume de produtos com dispositivos embarcados,\
       \ a conectividade passa a ser uma demanda crucial para garantir o acesso aos\
       \ mesmos, facilitando as corre\xE7\xF5es e a assist\xEAncia remota. Diante dessa\
@@ -313,60 +399,6 @@
     target: "Intermedi\xE1rio"
     title: "ShellHub, o SSH do s\xE9culo XXI"
     url: https://www.linkedin.com/in/diandramartini/
-  - abstract: "Git em pequenos projetos, como num TCC, onde um pequeno grupo desenvolve\
-      \ em conjunto. O Git \xE9 \"A\" ferramenta de versionamento e software criada\
-      \ por Lunis Torvalds e que dominou o mercado atual. \xC9 n\xE3o apenas gratu\xED\
-      ta, \xE9 mais que isso, \xE9 um Software Livre, de ampla utiliza\xE7\xE3o e\
-      \ altamente reconhecido. At\xE9 os servi\xE7os web que suportam o Git s\xE3\
-      o bons e gratuitos nestes casos."
-    author: "Sandro Cust\xF3dio"
-    resume: "Servidor P\xFAblico da Justi\xE7a Federal com mais de 20 anos de TI,\
-      \ foco no Suporte a usu\xE1rios, pitadas de infra e mais recentemente retornando\
-      \ ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012\
-      \ usa apenas Linux em casa. J\xE1 administrou UNIX e nos dias de hoje utiliza\
-      \ Ubuntu e Mint. Tem como hobbies: Moto viagens, fotografia e astronomia."
-    target: Principiante
-    title: Git em pequenos projetos
-    url: https://www.linkedin.com/in/sandro-custodio/
-  - abstract: 'Entenda um pouco sobre o systemd e suas facilidades. Ele atende as
-      expectativas? Assista e descubra como ele pode lhe ajudar. '
-    author: 'Aldrey Anderson Galindo de Souza '
-    resume: "Aldrey Galindo \xE9 sysadmin h\xE1 mais de 18 anos, trabalhando com servidores\
-      \ Linux (Red Hat, CentOS, Fedora e Debian), de Aplica\xE7\xE3o (Tomcat, WebSphere,\
-      \ Jboss e WebLogic), de Bancos de Dados (MySQL e PostgreSQL), Virtualiza\xE7\
-      \xE3o (KVM, oVirt, RHEV, VMWare). Ap\xF3s alguns anos de estudo obteve sua certifica\xE7\
-      \xE3o RHCA (Red Hat Certified Architect). H\xE1 um ano e meio realizou seu grande\
-      \ sonho de trabalhar na RedHat."
-    target: Principiante
-    title: systemd para principiantes
-    url: https://br.linkedin.com/in/aldreygalindo/pt-br
-  - abstract: "Uma introdu\xE7\xE3o b\xE1sica para quem deseja iniciar seus estudos\
-      \ em modelagem utilizando Software Livre. Nesta apresenta\xE7\xE3o, ser\xE1\
-      \ apresentado o Blender, um software capaz de realizar modelagem, anima\xE7\xE3\
-      o e produ\xE7\xF5es gr\xE1ficas em 3D, com demonstra\xE7\xE3o dos primeiros\
-      \ passos, sob a \xF3tica de um tamb\xE9m principiante rec\xE9m-iniciado estudante\
-      \ deste software. As demonstra\xE7\xF5es ir\xE3o desde a introdu\xE7\xE3o ao\
-      \ funcionamento da interface do software, passando pelas etapas b\xE1sicas at\xE9\
-      \ a renderiza\xE7\xE3o do projeto."
-    author: Vinicius Alexandre Lucas
-    resume: "Vin\xEDcius A. Lucas \xE9 estudante do primeiro ano do ensino m\xE9dio,\
-      \ e n\xE3o quer apenas usar tecnologia, mas saber como ela funciona e como criar\
-      \ coisas novas. Curte v\xEDdeo games ANTIGOS, colecionando alguns, e estuda\
-      \ software livre para realizar suas pr\xF3prias cria\xE7\xF5es. J\xE1 palestrou\
-      \ anteriormente em outros eventos, est\xE1 agora se dedicando ao estudo de modelagem\
-      \ 3d e aplica\xE7\xF5es gr\xE1ficas."
-    target: Principiante
-    title: 'Blender: guia para iniciantes'
-    url: https://www.viniciusalucas.com.br
-  - abstract: A variante do Fedora SilverBlue, bala de prata, representa o sistema
-      operacional do futuro. Nessa variante o sistema todo opera com o conceito de
-      container, sendo o gerenciamento de pacotes feito por snap packages.
-    author: Wolnei Junior
-    resume: "Engenheiro da Computa\xE7\xE3o \nAnalista de Cloud \nMestrando em Ciencia\
-      \ de Dados na Universidade de  Berkeley CA"
-    target: Principiante
-    title: Fedora SilverBlue
-    url: wolnei.com
   - abstract: "Um grande desafio de estudantes de arquitetura de computadores \xE9\
       \ entender teoricamente como vamos dos trans\xEDstores e portas l\xF3gicas at\xE9\
       \ a CPU e mem\xF3ria RAM. Nesta palestra, ser\xE1 utilizado o software livre\
@@ -387,53 +419,82 @@
     title: "Das portas l\xF3gicas \xE0 CPU: entendendo funcionamento de computadores\
       \ usando LogiSim"
     url: https://people.tchelinux.org/mlucas/
-  - abstract: "Apresentar fatores relacionados \xE0 utiliza\xE7\xE3o de Linux e outros\
-      \ softwares open source no cotidiano do usu\xE1rio comum, sem conhecimento t\xE9\
-      cnico de inform\xE1tica, complementando com alguns casos demonstrando a maturidade\
-      \ dos sistemas baseados em Linux para uso pessoal frente \xE0s op\xE7\xF5es\
-      \ propriet\xE1rias."
-    author: Cassiano Molinari Gomes
-    resume: "T\xE9cnico qu\xEDmico, t\xE9cnico em inform\xE1tica e estudante de Licenciatura\
-      \ em Computa\xE7\xE3o. Entusiasta de Software Livre e Linux. Contribuo como\
-      \ tradutor da distribui\xE7\xE3o Deepin para portugu\xEAs brasileiro e como\
-      \ volunt\xE1rio no melhor evento de Linux do Brasil, o Tchelinux. Compartilhar\
-      \ o conhecimento \xE9 a chave para melhorar as coisas para todos."
+  - abstract: "Git em pequenos projetos, como num TCC, onde um pequeno grupo desenvolve\
+      \ em conjunto. O Git \xE9 \"A\" ferramenta de versionamento e software criada\
+      \ por Lunis Torvalds e que dominou o mercado atual. \xC9 n\xE3o apenas gratu\xED\
+      ta, \xE9 mais que isso, \xE9 um Software Livre, de ampla utiliza\xE7\xE3o e\
+      \ altamente reconhecido. At\xE9 os servi\xE7os web que suportam o Git s\xE3\
+      o bons e gratuitos nestes casos."
+    author: "Sandro Cust\xF3dio"
+    resume: "Servidor P\xFAblico da Justi\xE7a Federal com mais de 20 anos de TI,\
+      \ foco no Suporte a usu\xE1rios, pitadas de infra e mais recentemente retornando\
+      \ ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012\
+      \ usa apenas Linux em casa. J\xE1 administrou UNIX e nos dias de hoje utiliza\
+      \ Ubuntu e Mint. Tem como hobbies: Moto viagens, fotografia e astronomia."
     target: Principiante
-    title: "Desktop Linux: O pinguim e o usu\xE1rio final"
-    url: twitter.com/molinari_1st, linkedin.com/in/cassiano-molinari, github.com/m00nlinari
+    title: Git em pequenos projetos
+    url: https://www.linkedin.com/in/sandro-custodio/
+  - abstract: "Uma introdu\xE7\xE3o b\xE1sica para quem deseja iniciar seus estudos\
+      \ em modelagem utilizando Software Livre. Nesta apresenta\xE7\xE3o, ser\xE1\
+      \ apresentado o Blender, um software capaz de realizar modelagem, anima\xE7\xE3\
+      o e produ\xE7\xF5es gr\xE1ficas em 3D, com demonstra\xE7\xE3o dos primeiros\
+      \ passos, sob a \xF3tica de um tamb\xE9m principiante rec\xE9m-iniciado estudante\
+      \ deste software. As demonstra\xE7\xF5es ir\xE3o desde a introdu\xE7\xE3o ao\
+      \ funcionamento da interface do software, passando pelas etapas b\xE1sicas at\xE9\
+      \ a renderiza\xE7\xE3o do projeto."
+    author: Vinicius Alexandre Lucas
+    resume: "Vin\xEDcius A. Lucas \xE9 estudante do primeiro ano do ensino m\xE9dio,\
+      \ e n\xE3o quer apenas usar tecnologia, mas saber como ela funciona e como criar\
+      \ coisas novas. Curte v\xEDdeo games ANTIGOS, colecionando alguns, e estuda\
+      \ software livre para realizar suas pr\xF3prias cria\xE7\xF5es. J\xE1 palestrou\
+      \ anteriormente em outros eventos, est\xE1 agora se dedicando ao estudo de modelagem\
+      \ 3d e aplica\xE7\xF5es gr\xE1ficas."
+    target: Principiante
+    title: 'Blender: guia para iniciantes'
+    url: https://www.viniciusalucas.com.br
+  - abstract: "Nesta talk veremos porque a filosofia e boas pr\xE1ticas do OpenBSD\
+      \ fazem dele uma refer\xEAncia em seguran\xE7a, s\xE3o excelentes pra crescimento\
+      \ profissional de desenvolvedores, al\xE9m de, serem uma s\xF3lida base para\
+      \ estudo da disciplina de Sistemas Operacionais. Ser\xE3o abordadas inova\xE7\
+      \xF5es do OpenBSD, como Stack protector, W^X, KARL, entre outras. Tamb\xE9m\
+      \ faremos compara\xE7\xF5es com outros SOs de c\xF3digo aberto como Linux, e\
+      \ outros UNIX-like."
+    author: Walter Neto
+    resume: "Sou Engeneheiro de Computa\xE7\xE3o formado pela UniSEB Ribeir\xE3o Preto\
+      \ com 20 anos de experi\xEAncia, sendo desses, 13 anos de atua\xE7\xE3o em empresas\
+      \ de pequeno e medio porte. Sou especialista em infraestrutura, arquitetura\
+      \ de software, desenvolvimento de c\xF3digo seguro e de alto desempenho.\nSou\
+      \ apaixonado por sistemas operacionais BSD. Sou fundador da empresa Aleph-bit,\
+      \ que forma desenvolvedores na arte da seguran\xE7a da informa\xE7\xE3o e desenvolvimento\
+      \ de c\xF3digo seguro. Durante minha carreira trabalhei tamb\xE9m com comunica\xE7\
+      \xE3o serial, protocolos de rede, web crawler, processamento digital de imagens,\
+      \ sistema de arquivos, kernel hacking (OpenBSD), otimiza\xE7\xE3o e performance."
+    target: "Intermedi\xE1rio"
+    title: OpenBSD para Desenvolvedores
+    url: https://github.com/radixo
+  - abstract: A variante do Fedora SilverBlue, bala de prata, representa o sistema
+      operacional do futuro. Nessa variante o sistema todo opera com o conceito de
+      container, sendo o gerenciamento de pacotes feito por snap packages.
+    author: Wolnei Junior
+    resume: "Engenheiro da Computa\xE7\xE3o \nAnalista de Cloud \nMestrando em Ciencia\
+      \ de Dados na Universidade de  Berkeley CA"
+    target: Principiante
+    title: Fedora SilverBlue
+    url: wolnei.com
 - name: Infraestrutura, DevOps e Cloud
   speeches:
-  - abstract: "\xC9 comum ter cluster kubernetes instalados e funcionando mas na hora\
-      \ de atualizar o pessoal fica perdido. O que \xE9 preciso ter backup? Como ficam\
-      \ minhas aplica\xE7\xF5es? O processo de atualiza\xE7\xE3o \xE9 relativamente\
-      \ simples mas h\xE1 alguns passos em que se deve tomar cuidado. Vamos ver, na\
-      \ pr\xE1tica, como fazer essa atualiza\xE7\xE3o."
-    author: Marcos Sungaila
-    resume: "Master Principal Sales Consultant \u2013 Oracle, Consultor e Arquiteto\
-      \ de Solu\xE7\xF5es OpenSource atuando nas \xE1reas de infraestrutura de redes,\
-      \ cloud computing e seguran\xE7a da informa\xE7\xE3o, realizou in\xFAmeras implanta\xE7\
-      \xF5es Linux e Cloud Computing no meio corporativo. Projetos de integra\xE7\xE3\
-      o de redes heterog\xEAneas, auditoria e performance de servidores. Em 2018 no\
-      \ OpenStack Summit em Vancouver foi premiado como \u201CMentor of Mentors\u201D\
-      . \xC9 autor do livro \"Autentica\xE7\xE3o Centralizada com OpenLDAP\". Arquiteto\
-      \ pelo Mackenzie -1995. P\xF3s Gradua\xE7\xE3o Engenharia de Redes pela FASP\
-      \ - 2001. Certificado Mirantis Cloud Platform, RHCA - Level 4, OpenStack-RHCSA-OSP,\
-      \ RHCE, RHCDS, RHCVA, RHCSA; LPI \u2013 Level I e II, Mandriva-Pro, SUSE CLA.\
-      \ Ministrou aulas  na FIAP, Red Hat Brasil, Green, Infnet, DBA, HP, Universidade\
-      \ Cat\xF3lica de Bras\xEDlia, PUC-SP, FESP/PR, FAINAM, BANDTEC e \"in company\"\
-      \ para v\xE1rias empresas. Palestrante convidado nos eventos: Meetup \u2013\
-      \ Savant (4) 2019; Inovabra - Bradesco 2019; Congresso de Tecnologia \u2013\
-      \ PUC/GO 2019; TDC - Recife, S\xE3o Paulo, Florian\xF3polis 2019; Campus Party\
-      \ 2019, 2016; Oracle OpenWorld \u2013 SP 2018; CephDay SP 2018, 2017; OpenStackDay\
-      \ SP 2018, 2017, 2016; FLISOL \u2013 Santo Andr\xE9 2018; TDC - Florian\xF3\
-      polis, S\xE3o Paulo e Porto Alegre 2018; Latinoware 2018, 2017, 2016, 2015,\
-      \ 2014; Fedora 24 Release Party;  F\xF3rum de Software Livre - Faculdade Impacta\
-      \ \u2013 2015; FAD 2013; Wecti-Unicid 2012/2010; Fatec-Jundia\xED 2010; Tchelinux/RS\
-      \ 2009; Software Freedom Day/PR 2009;  Eri-Co/DF 2008; Conisli/SP 2008. Ministrou\
-      \ treinamentos Linux para mais de 18.000 alunos."
+  - abstract: "Automa\xE7\xE3o \xE9 talvez uma das palavras mais utilizadas para quem\
+      \ vive a cultura DevOps. Terraform \xE9 uma excelente ferramenta que serve para....\
+      \ automa\xE7\xE3o para provisionamento de recursos. Quer saber como diminuir\
+      \ gargalos, otimizar tempo e garantir maior seguran\xE7a e agilidade no seu\
+      \ processo de deploy, ent\xE3o essa talk foi feita para voc\xEA."
+    author: Cristiano dos Santos Diedrich
+    resume: "Sou formado em Sistemas de Informa\xE7\xE3o, atualmente trabalho no time\
+      \ de tecnologia da uMov.me. Ajudo a organizar alguns Meetups em Porto Alegre\
+      \ e regi\xE3o e contribuo em eventos e blogs no meu tempo livre :)"
     target: Principiante
-    title: "Atualizando um cluster Kubernetes na pr\xE1tica"
-    url: https://br.linkedin.com/in/marcossungaila
+    title: "Terraform: Ao infinito e al\xE9m"
+    url: https://www.mundodocker.com.br
   - abstract: "Vamos abortar o uso do podman como uma alternativa ao Docker e com\
       \ um p\xE9zinho no Kubernetes "
     author: Daniel Lara
@@ -442,27 +503,6 @@
     target: Principiante
     title: Containers com Podman
     url: http://danniel-lara.blogspot.com
-  - abstract: "Nesta apresenta\xE7\xE3o ser\xE3o abordados conceitos b\xE1sicos sobre\
-      \ o Fedora CoreOS, assim como suas principais diferen\xE7as com o Fedora Silverblue\
-      \ e principais casos de uso."
-    author: Gabriel Ferraz Stein
-    resume: Com anos de experiencia no mercado e membro antigo do Tchelinux, Gabriel
-      comecou muito cedo com tecnologia e no uso de software livre
-    target: "Intermedi\xE1rio"
-    title: 'Fedora CoreOS: Um sistema minimalista e escalavel para worloads seguros.'
-    url: https://github.com/gabrielstein
-  - abstract: "Nesta palestra ser\xE3o apresentados os algoritmos de balanceamento\
-      \ de carga mais utilizados no mercado, a aplica\xE7\xE3o real de cada um deles\
-      \ e exemplos de como configurar os web servers opensource para utiliz\xE1-los."
-    author: Vinicius Mignot
-    resume: "Vinicius ganhou um computador ao inv\xE9s de uma guitarra porque traria\
-      \ companhias melhores. Seus pais perceberam o erro quando foi suspenso pela\
-      \ insist\xEAncia em sabotar a rede da escola. Desenvolvendo para ambientes Unix\
-      \ h\xE1 mais de 20 anos hoje emprega seu conhecimento para atividades mais nobres,\
-      \ como contribuir para o API gateway da Kong."
-    target: Principiante
-    title: "Aplica\xE7\xE3o de Algoritmos de Balanceamento de Carga"
-    url: https://github.com/locao
   - abstract: "Esta palestra ir\xE1 abordar a integra\xE7\xE3o entre Terraform e Ansible\
       \ no provisionamento de uma VM, usando Terraform para criar recursos e Ansible\
       \ para customizar o recurso criado.\nEla se divide em 3 etapas:\n\n- Cria\xE7\
@@ -484,6 +524,15 @@
     target: "Intermedi\xE1rio"
     title: Migrando sua vida para Ansible
     url: not available
+  - abstract: "Nesta apresenta\xE7\xE3o ser\xE3o abordados conceitos b\xE1sicos sobre\
+      \ o Fedora CoreOS, assim como suas principais diferen\xE7as com o Fedora Silverblue\
+      \ e principais casos de uso."
+    author: Gabriel Ferraz Stein
+    resume: Com anos de experiencia no mercado e membro antigo do Tchelinux, Gabriel
+      comecou muito cedo com tecnologia e no uso de software livre
+    target: "Intermedi\xE1rio"
+    title: 'Fedora CoreOS: Um sistema minimalista e escalavel para worloads seguros.'
+    url: https://github.com/gabrielstein
   - abstract: "Kubernetes \xE9 \xF3timo para gerenciamento de aplica\xE7\xF5es sem\
       \ estado (stateless): ele automatiza todo o ciclo de vida dessas aplica\xE7\xF5\
       es e permite que operadores/administradores concentrem-se no que importa de\
@@ -515,6 +564,37 @@
     target: "Intermedi\xE1rio"
     title: Operator Framework - Codificando Conhecimento SRE no Kubernetes
     url: https://github.com/LCaparelli/ https://www.linkedin.com/in/lcaparelli/
+  - abstract: "\xC9 comum ter cluster kubernetes instalados e funcionando mas na hora\
+      \ de atualizar o pessoal fica perdido. O que \xE9 preciso ter backup? Como ficam\
+      \ minhas aplica\xE7\xF5es? O processo de atualiza\xE7\xE3o \xE9 relativamente\
+      \ simples mas h\xE1 alguns passos em que se deve tomar cuidado. Vamos ver, na\
+      \ pr\xE1tica, como fazer essa atualiza\xE7\xE3o."
+    author: Marcos Sungaila
+    resume: "Master Principal Sales Consultant \u2013 Oracle, Consultor e Arquiteto\
+      \ de Solu\xE7\xF5es OpenSource atuando nas \xE1reas de infraestrutura de redes,\
+      \ cloud computing e seguran\xE7a da informa\xE7\xE3o, realizou in\xFAmeras implanta\xE7\
+      \xF5es Linux e Cloud Computing no meio corporativo. Projetos de integra\xE7\xE3\
+      o de redes heterog\xEAneas, auditoria e performance de servidores. Em 2018 no\
+      \ OpenStack Summit em Vancouver foi premiado como \u201CMentor of Mentors\u201D\
+      . \xC9 autor do livro \"Autentica\xE7\xE3o Centralizada com OpenLDAP\". Arquiteto\
+      \ pelo Mackenzie -1995. P\xF3s Gradua\xE7\xE3o Engenharia de Redes pela FASP\
+      \ - 2001. Certificado Mirantis Cloud Platform, RHCA - Level 4, OpenStack-RHCSA-OSP,\
+      \ RHCE, RHCDS, RHCVA, RHCSA; LPI \u2013 Level I e II, Mandriva-Pro, SUSE CLA.\
+      \ Ministrou aulas  na FIAP, Red Hat Brasil, Green, Infnet, DBA, HP, Universidade\
+      \ Cat\xF3lica de Bras\xEDlia, PUC-SP, FESP/PR, FAINAM, BANDTEC e \"in company\"\
+      \ para v\xE1rias empresas. Palestrante convidado nos eventos: Meetup \u2013\
+      \ Savant (4) 2019; Inovabra - Bradesco 2019; Congresso de Tecnologia \u2013\
+      \ PUC/GO 2019; TDC - Recife, S\xE3o Paulo, Florian\xF3polis 2019; Campus Party\
+      \ 2019, 2016; Oracle OpenWorld \u2013 SP 2018; CephDay SP 2018, 2017; OpenStackDay\
+      \ SP 2018, 2017, 2016; FLISOL \u2013 Santo Andr\xE9 2018; TDC - Florian\xF3\
+      polis, S\xE3o Paulo e Porto Alegre 2018; Latinoware 2018, 2017, 2016, 2015,\
+      \ 2014; Fedora 24 Release Party;  F\xF3rum de Software Livre - Faculdade Impacta\
+      \ \u2013 2015; FAD 2013; Wecti-Unicid 2012/2010; Fatec-Jundia\xED 2010; Tchelinux/RS\
+      \ 2009; Software Freedom Day/PR 2009;  Eri-Co/DF 2008; Conisli/SP 2008. Ministrou\
+      \ treinamentos Linux para mais de 18.000 alunos."
+    target: Principiante
+    title: "Atualizando um cluster Kubernetes na pr\xE1tica"
+    url: https://br.linkedin.com/in/marcossungaila
   - abstract: "Criar novas maquinas virtuais pode ser um trabalho cansativo e repetitivo\
       \ e as vezes at\xE9 estressante. Muitas vezes boa parte do tempo de um novo\
       \ projeto \xE9 gasto provisionando novas recursos, instalando softwares necess\xE1\
@@ -532,20 +612,50 @@
     target: "Intermedi\xE1rio"
     title: 'IaC e oVirt: Sua nova VM em apenas 60 segundos!'
     url: http://mlab.run
-  - abstract: "Automa\xE7\xE3o \xE9 talvez uma das palavras mais utilizadas para quem\
-      \ vive a cultura DevOps. Terraform \xE9 uma excelente ferramenta que serve para....\
-      \ automa\xE7\xE3o para provisionamento de recursos. Quer saber como diminuir\
-      \ gargalos, otimizar tempo e garantir maior seguran\xE7a e agilidade no seu\
-      \ processo de deploy, ent\xE3o essa talk foi feita para voc\xEA."
-    author: Cristiano dos Santos Diedrich
-    resume: "Sou formado em Sistemas de Informa\xE7\xE3o, atualmente trabalho no time\
-      \ de tecnologia da uMov.me. Ajudo a organizar alguns Meetups em Porto Alegre\
-      \ e regi\xE3o e contribuo em eventos e blogs no meu tempo livre :)"
+  - abstract: "Nesta palestra ser\xE3o apresentados os algoritmos de balanceamento\
+      \ de carga mais utilizados no mercado, a aplica\xE7\xE3o real de cada um deles\
+      \ e exemplos de como configurar os web servers opensource para utiliz\xE1-los."
+    author: Vinicius Mignot
+    resume: "Vinicius ganhou um computador ao inv\xE9s de uma guitarra porque traria\
+      \ companhias melhores. Seus pais perceberam o erro quando foi suspenso pela\
+      \ insist\xEAncia em sabotar a rede da escola. Desenvolvendo para ambientes Unix\
+      \ h\xE1 mais de 20 anos hoje emprega seu conhecimento para atividades mais nobres,\
+      \ como contribuir para o API gateway da Kong."
     target: Principiante
-    title: "Terraform: Ao infinito e al\xE9m"
-    url: https://www.mundodocker.com.br
+    title: "Aplica\xE7\xE3o de Algoritmos de Balanceamento de Carga"
+    url: https://github.com/locao
 - name: "Redes, Seguran\xE7a e Pentest"
   speeches:
+  - abstract: "Sabemos que a pressa \xE9 inimiga da perfei\xE7\xE3o, mas n\xE3o adianta\
+      \ deixar aspectos simples de seguran\xE7a para depois. Veremos como identificar\
+      \ vulnerabilidades de SQL Injection em aplica\xE7\xF5es PHP, que s\xE3o encontradas\
+      \ na maioria dos web sites."
+    author: Fabio Beneditto
+    resume: "Fabio Beneditto \xE9 Desenvolvedor Web, Old School Nerd, simpatizante\
+      \ de F/OSS, seguran\xE7a da informa\xE7\xE3o e comunidades em geral. Volunt\xE1\
+      rio Tchelinux desde 2016, \xE9 praticante de #mototerapia."
+    target: "Intermedi\xE1rio"
+    title: '
+
+      Pwned! Meu site foi invadido, e agora?'
+    url: https://people.tchelinux.org/fabiobeneditto/
+  - abstract: "Nessa apresenta\xE7\xE3o ser\xE3o demonstrados casos reais de detec\xE7\
+      \xE3o e resposta a incidentes atrav\xE9s do monitoramento de logs de diversos\
+      \ frontends Nginx devidamente configurados utilizando a pilha ELK (Elasticsearch,\
+      \ Logstash, e Kibana). O uso da plataforma ELK em conjunto com a devida configura\xE7\
+      \xE3o de registro de logs auxilia na identifica\xE7\xE3o de amea\xE7as e ataques\
+      \ direcionados, origem dos ataques e ferramentas utilizadas no ataque. Ser\xE1\
+      \ abordado, tamb\xE9m, como a solu\xE7\xE3o completa foi implementada e configurada."
+    author: Jeronimo Zucco
+    resume: "Bacharel em Ci\xEAncia da Computa\xE7\xE3o pela Universidade de Caxias\
+      \ do Sul e P\xF3s-Graduado em Ger\xEAncia e Seguran\xE7a de Redes de Computadores\
+      \ tamb\xE9m pela UCS. Certificado CISSP e ex-membro do projeto OWASP (Open Web\
+      \ Application Security Project). J\xE1 palestrou em diversos eventos sobre o\
+      \ tema seguran\xE7a de sistemas."
+    target: "Avan\xE7ado"
+    title: "Detectando e Respondendo Incidentes de Seguran\xE7a em Frontends Nginx\
+      \ Utilizando ELK"
+    url: https://www.twitter.com/jczucco
   - abstract: "As redes Wifi possuem in\xFAmeras vulnerabilidades. Conhecer quais\
       \ s\xE3o elas e saber qual ferramenta utilizar para um teste de invas\xE3o,\
       \ pode garantir a prote\xE7\xE3o dos dados da sua casa e da sua empresa!"
@@ -582,33 +692,3 @@
     target: "Intermedi\xE1rio"
     title: "Redes LoraWAN na pr\xE1tica"
     url: http://lattes.cnpq.br/0533228733592354
-  - abstract: "Sabemos que a pressa \xE9 inimiga da perfei\xE7\xE3o, mas n\xE3o adianta\
-      \ deixar aspectos simples de seguran\xE7a para depois. Veremos como identificar\
-      \ vulnerabilidades de SQL Injection em aplica\xE7\xF5es PHP, que s\xE3o encontradas\
-      \ na maioria dos web sites."
-    author: Fabio Beneditto
-    resume: "Fabio Beneditto \xE9 Desenvolvedor Web, Old School Nerd, simpatizante\
-      \ de F/OSS, seguran\xE7a da informa\xE7\xE3o e comunidades em geral. Volunt\xE1\
-      rio Tchelinux desde 2016, \xE9 praticante de #mototerapia."
-    target: "Intermedi\xE1rio"
-    title: '
-
-      Pwned! Meu site foi invadido, e agora?'
-    url: https://people.tchelinux.org/fabiobeneditto/
-  - abstract: "Nessa apresenta\xE7\xE3o ser\xE3o demonstrados casos reais de detec\xE7\
-      \xE3o e resposta a incidentes atrav\xE9s do monitoramento de logs de diversos\
-      \ frontends Nginx devidamente configurados utilizando a pilha ELK (Elasticsearch,\
-      \ Logstash, e Kibana). O uso da plataforma ELK em conjunto com a devida configura\xE7\
-      \xE3o de registro de logs auxilia na identifica\xE7\xE3o de amea\xE7as e ataques\
-      \ direcionados, origem dos ataques e ferramentas utilizadas no ataque. Ser\xE1\
-      \ abordado, tamb\xE9m, como a solu\xE7\xE3o completa foi implementada e configurada."
-    author: Jeronimo Zucco
-    resume: "Bacharel em Ci\xEAncia da Computa\xE7\xE3o pela Universidade de Caxias\
-      \ do Sul e P\xF3s-Graduado em Ger\xEAncia e Seguran\xE7a de Redes de Computadores\
-      \ tamb\xE9m pela UCS. Certificado CISSP e ex-membro do projeto OWASP (Open Web\
-      \ Application Security Project). J\xE1 palestrou em diversos eventos sobre o\
-      \ tema seguran\xE7a de sistemas."
-    target: "Avan\xE7ado"
-    title: "Detectando e Respondendo Incidentes de Seguran\xE7a em Frontends Nginx\
-      \ Utilizando ELK"
-    url: https://www.twitter.com/jczucco
