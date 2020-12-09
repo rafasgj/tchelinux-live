@@ -3,6 +3,6 @@
 * **Notificação dos Trabalhos Selecionados**: <strike>{{ page.cfp.notification }}</strike>
 * **Prazo final para envio dos videos**: <strike>{{ page.presentation.submission }}</strike>
 * **Prazo final para envio das correções**: <strike>{{ page.presentation.fixes }}</strike>
-* **Anúncio da Programação**: {{ page.presentation.announce }}
+* **Anúncio da Programação**: <strike>{{ page.presentation.announce }}</strike>
 * **Publicação dos Vídeos**: {{ page.presentation.publication }}
 * **Tchelinux Live**: {{ page.date }}

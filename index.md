@@ -18,7 +18,7 @@ presentation:
   submission: 29 de Novembro de 2020
   fixes: 6 de Dezembro de 2020
   announce: 7 de Dezembro de 2020
-  publication: 7 de Dezembro de 2020
+  publication: 7 a 10 de Dezembro de 2020
   url: /
 sponsor:
   gold:
