@@ -151,14 +151,14 @@
                 {% if page.sponsor.gold %}
                 <div class="sponsors sponsor_gold">
                     {% for sponsor in page.sponsor.gold %}
-                    <a class="sponsor_gold" href="{{ sponsor.url }}"><img class="sponsor_gold" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
+                    <a class="sponsor_gold" target="_blank" href="{{ sponsor.url }}"><img class="sponsor_gold" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
                     {% endfor %}
                 </div>
                 {% endif %}
                 {% if page.sponsor.silver %}
                 <div class="sponsors sponsor_silver">
                     {% for sponsor in page.sponsor.silver %}
-                    <a class="sponsor_silver" href="{{ sponsor.url }}"><img class="sponsor_silver" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
+                    <a class="sponsor_silver" target="_blank" href="{{ sponsor.url }}"><img class="sponsor_silver" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
                     {% endfor %}
                 </div>
                 {% endif %}
@@ -177,7 +177,7 @@
             <div class="row container">
                 <div class="sponsors sponsor_gold">
                     {% for supporter in page.supporters %}
-                    <a class="sponsor_gold" href="{{ supporter.url }}"><img class="sponsor_gold" alt="{{ supporter.name }}" src="{{ supporter.image }}"></a>
+                    <a class="sponsor_gold" target="_blank" href="{{ supporter.url }}"><img class="sponsor_gold" alt="{{ supporter.name }}" src="{{ supporter.image }}"></a>
                     {% endfor %}
                 </div>
             </div>
