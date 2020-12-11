@@ -30,7 +30,8 @@
         </div>
     </section>
 
-    <section id="event">
+    {% if page.how_to_participate %}
+    <section id="enroll">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -38,23 +39,39 @@
                 </div>
             </div>
             <div class="row container">
-                {{ page.how_to_participate | liquify | markdownify }}
+                {% capture certificate_data %}{% include {{ page.how_to_participate }} %}{% endcapture %}
+                {{ certificate_data | markdownify }}
             </div>
             <div class="row container" style="text-align: center">
                 <iframe style="margin: 0 auto;" width="560" height="315"
-                  src="https://www.youtube.com/embed/videoseries?list=PL9ESgQmnVQPZdlajOaRUaZe1-NnJGdKot"
+                  {% if page.event_playlist %}
+                    src="https://www.youtube.com/embed/videoseries?list={{ page.event_playlist }}"
+                  {% else %}
+                    src="https://www.youtube.com/embed/videoseries?v={{ page.event_video }}"
+                  {% endif %}
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowfullscreen>
                 </iframe>
             </div>
             <div class="row container" style="text-align: center">
-                <a href="https://www.youtube.com/watch?v=ApMzU4g7rDU&list=PL9ESgQmnVQPZdlajOaRUaZe1-NnJGdKot" style="width: 100%; display: block; font-size: 120%; margin-top: 10px;">Assista às palestras!</a>
+                {% if page.event_playlist %}
+                <a target="_blank" href="https://www.youtube.com/playlist?list={{ page.event_playlist }}"
+                   style="width: 100%; display: block; font-size: 120%; margin-top: 10px;">
+                      Assista às palestras!
+                </a>
+                {% else %}
+                <a target="_blank" href="https://www.youtube.com/watch?v={{ page.event_video }}"
+                   style="width: 100%; display: block; font-size: 120%; margin-top: 10px;">
+                      Assista às palestras!
+                </a>
+                {% endif %}
             </div>
         </div>
     </section>
+    {% endif %}
 
-    <section id="palastras">
+    <section id="palestras">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

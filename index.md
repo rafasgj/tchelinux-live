@@ -43,12 +43,9 @@ supporters:
     url: https://www.mentebinaria.com.br
     image: images/logo_mentebinaria.png
 speeches: 2020_live
-how_to_participate: |
-  Basta acessar o [canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1), inscrever-se no canal e clicar no sininho para ativar as notificações.
-
-  Assim que a estréia das palestras forem agendadas e os horários das lives anunciadas no dia 12 de Dezembro, você receberá uma notificação.
-
-  Ajude a fortalecer a comunidade do Software Livre: compartilhe as talks, convide quem você conhece, participe. Até lá!
+how_to_participate: como_participar.md
+event_video: ApMzU4g7rDU
+event_playlist: PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
