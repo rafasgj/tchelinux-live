@@ -148,16 +148,20 @@
                 </div>
             </div>
             <div class="row container">
+                {% if page.sponsor.gold %}
                 <div class="sponsors sponsor_gold">
                     {% for sponsor in page.sponsor.gold %}
                     <a class="sponsor_gold" href="{{ sponsor.url }}"><img class="sponsor_gold" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
                     {% endfor %}
                 </div>
+                {% endif %}
+                {% if page.sponsor.silver %}
                 <div class="sponsors sponsor_silver">
                     {% for sponsor in page.sponsor.silver %}
                     <a class="sponsor_silver" href="{{ sponsor.url }}"><img class="sponsor_silver" alt="{{ sponsor.name }}" src="{{ sponsor.image }}"></a>
                     {% endfor %}
                 </div>
+                {% endif %}
             </div>
         </div>
     </section>
