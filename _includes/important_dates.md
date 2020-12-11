@@ -4,5 +4,5 @@
 * **Prazo final para envio dos videos**: <strike>{{ page.presentation.submission }}</strike>
 * **Prazo final para envio das correções**: <strike>{{ page.presentation.fixes }}</strike>
 * **Anúncio da Programação**: <strike>{{ page.presentation.announce }}</strike>
-* **Publicação dos Vídeos**: {{ page.presentation.publication }}
+* **Publicação dos Vídeos**: <strike>{{ page.presentation.publication }}</strike>
 * **Tchelinux Live**: {{ page.date }}
