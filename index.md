@@ -35,6 +35,13 @@ sponsor:
   - name: Syntesis IT Services
     url: https://syntesis.it/
     image: images/logo-sysntesis-it-services.png
+supporters:
+  - name: Projeto Root
+    url: https://projetoroot.com.br
+    image: images/logo_projetoroot.png
+  - name: Mente Binário
+    url: https://www.mentebinaria.com.br
+    image: images/logo_mentebinaria.png
 speeches: 2020_live
 how_to_participate: |
   Basta acessar o [canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1), inscrever-se no canal e clicar no sininho para ativar as notificações.

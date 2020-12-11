@@ -162,6 +162,25 @@
         </div>
     </section>
 
+   {% if page.supporters %}
+    <section id="supporters">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Apoio</h2>
+                </div>
+            </div>
+            <div class="row container">
+                <div class="sponsors sponsor_gold">
+                    {% for supporter in page.supporters %}
+                    <a class="sponsor_gold" href="{{ supporter.url }}"><img class="sponsor_gold" alt="{{ supporter.name }}" src="{{ supporter.image }}"></a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
     <footer>
       &copy; 2020 Tchelinux
     </footer>
