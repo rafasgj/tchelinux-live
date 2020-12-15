@@ -51,21 +51,20 @@ event_playlist: PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
 adaptar, e para o Tchelinux não foi diferente.
 
-No dia **{{ page.date }}** tivemos o **Tchelinux Live 2020**, transmitido no 
+No dia **{{ page.date }}** tivemos o **Tchelinux Live 2020**, transmitido ao vivo 
 no [canal do grupo no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1).
+Foram disponibilizas também 44 palestras sobre diversos temas incluindo
+Comunidade, Empreendedorismo, Redes, Segurança, Pentest, Distribuições,
+Aplicativos, Desenvolvimento, Big Data, IA, Infraestrutura, DevOps e Cloud.
 
-Além do evento ao vivo, foram disponibilizadas de forma totalmente gratuita
-44 palestras sobre temas incluindo Comunidade, Empreendedorismo, Redes,
-Segurança, Pentest, Distribuições, Aplicativos, Desenvolvimento, Big Data, IA,
-Infraestrutura, DevOps, Cloud etc.
-
-Para os membros do Tchelinux que não puderam participar de eventos ao longo do
+Para os membros do grupo que não puderam participar de eventos ao longo do
 ano por conta do distanciamento social, o Tchelinux Live 2020 foi uma excelente
 oportunidade de rever amigos.
 
-Para outras pessoas que nunca tiveram a oportunidade de participar de atividades
+Para pessoas que nunca tiveram a oportunidade de participar de atividades
 organizadas pelo Tchelinux por conta de fatores geográficos, o evento permitiu
-com que finalmente conhecessem o trabalho realizado pelo grupo.
+com que finalmente pudessem conhecer o trabalho realizado pelo grupo.
 
 Em ambos os casos, todos puderam se beneficiar do conteúdo técnico de excelente
-qualidade sem precisar sair do conforto e segurança de seus lares.
+qualidade e totalmente gratuito, sem precisar sair do conforto e segurança de
+seus lares.
