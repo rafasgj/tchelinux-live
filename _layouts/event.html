@@ -42,18 +42,6 @@
                 {% capture certificate_data %}{% include {{ page.how_to_participate }} %}{% endcapture %}
                 {{ certificate_data | markdownify }}
             </div>
-            <div class="row container" style="text-align: center">
-                <iframe style="margin: 0 auto;" width="560" height="315"
-                  {% if page.event_playlist %}
-                    src="https://www.youtube.com/embed/videoseries?list={{ page.event_playlist }}"
-                  {% else %}
-                    src="https://www.youtube.com/embed/videoseries?v={{ page.event_video }}"
-                  {% endif %}
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen>
-                </iframe>
-            </div>
         </div>
     </section>
     {% endif %}
