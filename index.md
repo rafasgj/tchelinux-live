@@ -48,23 +48,28 @@ event_video: ApMzU4g7rDU
 event_playlist: PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ
 ---
 
-O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
-adaptar, e para o Tchelinux não foi diferente.
+No dia 12 de Dezembro tivemos o Tchelinux Live 2020, o primeiro evento
+realizado 100% online nos quase 15 anos de existência do grupo e além
+de uma live com diversos convidados especiais também foram disponibilizas
+44 palestras sobre diversos temas relacionados ao Software Livre.
 
-No dia **{{ page.date }}** tivemos o **Tchelinux Live 2020**, transmitido ao vivo 
-no [canal do grupo no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1).
-Foram disponibilizas também 44 palestras sobre diversos temas incluindo
-Comunidade, Empreendedorismo, Redes, Segurança, Pentest, Distribuições,
-Aplicativos, Desenvolvimento, Big Data, IA, Infraestrutura, DevOps e Cloud.
-
-Para os membros do grupo que não puderam participar de eventos ao longo do
-ano por conta do distanciamento social, o Tchelinux Live 2020 foi uma excelente
+Para aqueles que não puderam participar dos eventos presenciais nas 20
+cidades que seriam visitadas pelo Tchelinux ao longo do ano por conta
+do distanciamento social, o Tchelinux Live 2020 foi uma excelente
 oportunidade de rever amigos.
 
-Para pessoas que nunca tiveram a oportunidade de participar de atividades
-organizadas pelo Tchelinux por conta de fatores geográficos, o evento permitiu
-com que finalmente pudessem conhecer o trabalho realizado pelo grupo.
+Para outros que nunca tiveram a oportunidade de participar de atividades
+organizadas pelo grupo por conta de fatores geográficos, o evento permitiu
+com que finalmente pudessem conhecer nosso trabalho.
 
-Em ambos os casos, todos puderam se beneficiar do conteúdo técnico de excelente
-qualidade e totalmente gratuito, sem precisar sair do conforto e segurança de
-seus lares.
+Em ambos os casos, todos puderam usufruir (e se beneficiar) de um conteúdo
+técnico com qualidade, entregue de forma totalmente gratuita, sem a
+necessidade de deixar a segurança e o conforto de seus lares.
+
+Num ano marcado pelo distanciamento social e pela incerteza, o Tchelinux
+precisou se reinventar e com isso inauguramos uma nova fase do grupo onde
+barreiras geográficas e temporais serão quebradas, permitindo assim que
+uma quantidade maior de pessoas possam ter acesso ao conteúdo produzido
+pelos voluntários do grupo.
+
+Equipe de Organização
