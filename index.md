@@ -49,18 +49,23 @@ event_playlist: PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ
 ---
 
 O ano de 2020 trouxe uma série de mudanças e desafios aos quais precisamos nos
-adaptar e é nesse espírito que temos o prazer de convidar a todos para o
-**Tchelinux Live** que será transmitido ao vivo no dia **{{ page.date }}**
-no [canal do grupo no YouTube](https://youtube.com/tchelinux/).
+adaptar, e para o Tchelinux não foi diferente.
 
-Pela primeira vez desde 2006 teremos um evento realizado totalmente online,
-e algumas mudanças em relação ao formato usado ao longo desses quase 15 anos
-são necessárias para acomodar as novas mídias utilizadas.  
+No dia **{{ page.date }}** tivemos o **Tchelinux Live 2020**, transmitido no 
+no [canal do grupo no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1).
 
-As palestras continuam sendo sobre temas técnicos relacionados Software Livre,
-no entanto todas palestras serão disponibilizadas em vídeo, publicadas na
-semana que antecede o evento, no [canal do grupo](https://youtube.com/tchelinux/).
+Além do evento ao vivo, foram disponibilizadas de forma totalmente gratuita
+44 palestras sobre temas incluindo Comunidade, Empreendedorismo, Redes,
+Segurança, Pentest, Distribuições, Aplicativos, Desenvolvimento, Big Data, IA,
+Infraestrutura, DevOps, Cloud etc.
 
-No dia **{{ page.date }}**, a partir das 08:00h, teremos o **Tchelinux Live**,
-com onde os palestrantes responderão perguntas sobre tópicos abordados
-durante o evento e também keynotes com convidados especiais.
+Para os membros do Tchelinux que não puderam participar de eventos ao longo do
+ano por conta do distanciamento social, o Tchelinux Live 2020 foi uma excelente
+oportunidade de rever amigos.
+
+Para outras pessoas que nunca tiveram a oportunidade de participar de atividades
+organizadas pelo Tchelinux por conta de fatores geográficos, o evento permitiu
+com que finalmente conhecessem o trabalho realizado pelo grupo.
+
+Em ambos os casos, todos puderam se beneficiar do conteúdo técnico de excelente
+qualidade sem precisar sair do conforto e segurança de seus lares.
