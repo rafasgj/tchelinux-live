@@ -1,7 +1,11 @@
-Para participar basta acessar e se inscrever no [canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1). Não esqueça de clicar no sininho para ser avisado quando novos videos e lives forem anunciados.
+Os videos do **Tchelinux Live 2020** realizado no dia 12 de Dezembro estão disponíveis na playlist abaixo:
 
-Todos os [videos com as palestras já se encontram disponíveis no canal do grupo](https://www.youtube.com/playlist?list={{ page.event_playlist }}) e a programação do **Tchelinux Live 2020** que acontece no dia **{{ page.date }}** está na playlist abaixo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9ESgQmnVQPZdlajOaRUaZe1-NnJGdKot" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-   (colocar o video com a playlist embarcada aqui)
+Os videos das 44 palestras produzidas por voluntários para o evento estão disponíveis na playlist abaixo:
 
-Ajude a fortalecer a comunidade do Software Livre: compartilhe as talks, convide quem você conhece, participe. Até lá!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Não esquece de assinar o [canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1), e ativar as notificações para ser avisado cada vez que novos vídeos e lives forem anunciados.
+
+Você também pode ajudar o Tchelinux compartilhando os videos do canal com seus amigos e os convidando a participar!
