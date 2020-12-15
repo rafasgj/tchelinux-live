@@ -54,19 +54,6 @@
                   allowfullscreen>
                 </iframe>
             </div>
-            <div class="row container" style="text-align: center">
-                {% if page.event_playlist %}
-                <a target="_blank" href="https://www.youtube.com/playlist?list={{ page.event_playlist }}"
-                   style="width: 100%; display: block; font-size: 120%; margin-top: 10px;">
-                      Assista às palestras!
-                </a>
-                {% else %}
-                <a target="_blank" href="https://www.youtube.com/watch?v={{ page.event_video }}"
-                   style="width: 100%; display: block; font-size: 120%; margin-top: 10px;">
-                      Assista às palestras!
-                </a>
-                {% endif %}
-            </div>
         </div>
     </section>
     {% endif %}
