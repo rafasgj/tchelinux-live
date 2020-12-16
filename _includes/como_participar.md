@@ -1,7 +1,5 @@
-Todos videos das 44 palestras produzidas por voluntários, assim como as lives com participantes e convidados especiais do **Tchelinux Live 2020** estão disponíveis na playlist abaixo:
+Para participar basta acessar e se inscrever no [canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1). Não esqueça de clicar no sininho para ser avisado quando novos videos e lives forem anunciados.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+Todos os [videos com as palestras já se encontram disponíveis no canal do grupo](https://www.youtube.com/playlist?list={{ page.event_playlist }}) e a programação do **Tchelinux Live 2020** que acontece no dia **{{ page.date }}** está na playlist abaixo:
 
-Não esqueça de assinar o [Canal do Tchelinux no YouTube](https://www.youtube.com/tchelinux?sub_confirmation=1) e ativar as notificações para poder ser avisado sempre que novos videos ou lives forem anunciados.
-
-Se você gostou da iniciativa, ajude o Tchelinux compartilhando os videos do canal com seus amigos e os convidando a participar!
+Ajude a fortalecer a comunidade do Software Livre: compartilhe as talks, convide quem você conhece, participe. Até lá!

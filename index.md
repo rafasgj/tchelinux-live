@@ -4,6 +4,7 @@ title: Tchelinux Live
 city: Live
 date: 12 de Dezembro de 2020
 time: '14:00'
+cover: images/capa_live2020_2k.png
 links:
   youtube:
     text: youtube.com/tchelinux
@@ -43,7 +44,8 @@ supporters:
     url: https://www.mentebinaria.com.br
     image: images/logo_mentebinaria.png
 speeches: 2020_live
-how_to_participate: como_participar.md
+#how_to_participate: como_participar.md
+post_event: post_event.md
 event_video: ApMzU4g7rDU
 event_playlist: PL9ESgQmnVQPbmB8h6N4_GYSdlbd9rVaoJ
 ---

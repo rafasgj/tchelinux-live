@@ -7,14 +7,7 @@
 
     <!-- Header -->
     <header>
-        <img style="width: 82vw" class="d-flex m-auto" src="images/capa_live2020_2k.png">
-        <!-- <div class="container">
-            <div class="intro-text">
-                <div class="intro-heading">{{ page.title }}<br></div>
-                <div class="intro-lead-in">{{ page.date }}</div>
-                <img id="mascote" src="images/tuxgauderio.png">
-            </div>
-        </div> -->
+        <img style="width: 82vw" class="d-flex m-auto" src="{{ page.cover }}">
     </header>
 
     <section id="event">
@@ -35,16 +28,57 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Programação</h2>
+                    <h2 class="section-heading">Como Participar</h2>
                 </div>
             </div>
             <div class="row container">
                 {% capture certificate_data %}{% include {{ page.how_to_participate }} %}{% endcapture %}
                 {{ certificate_data | markdownify }}
             </div>
+            <div class="row container" style="text-align: center">
+                <iframe style="margin: 0 auto;" width="560" height="315"
+                  {% if page.event_playlist %}
+                    src="https://www.youtube.com/embed/videoseries?list={{ page.event_playlist }}"
+                  {% else %}
+                    src="https://www.youtube.com/embed/videoseries?v={{ page.event_video }}"
+                  {% endif %}
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+                </iframe>
+            </div>
         </div>
     </section>
     {% endif %}
+
+    {% if page.post_event %}
+    <section id="enroll">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Programação</h2>
+                </div>
+            </div>
+            <div class="row container">
+                {% capture page_data %}{% include {{ page.post_event }} %}{% endcapture %}
+                {{ page_data | markdownify }}
+            </div>
+            <div class="row container" style="text-align: center">
+                <iframe style="margin: 0 auto;" width="560" height="315"
+                  {% if page.event_playlist %}
+                    src="https://www.youtube.com/embed/videoseries?list={{ page.event_playlist }}"
+                  {% else %}
+                    src="https://www.youtube.com/embed/videoseries?v={{ page.event_video }}"
+                  {% endif %}
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+    </section>
+    {% endif %}
+
 
     <section id="palestras">
         <div class="container">
